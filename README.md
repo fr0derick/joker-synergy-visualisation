@@ -65,3 +65,8 @@ Drivers' License do have connections with other jokers as well.
 
 
 There are 150 jokers in Balatro (the wiki page says 151, but that is incorrect) and the amount of nodes displayed is 152. One of them is ``No synergies`` but I have no idea what the other one is yet
+
+
+# Final Result
+
+![](https://i.imgur.com/s9BGZ1Q.png)
