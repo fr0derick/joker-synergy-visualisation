@@ -1,0 +1,2020 @@
+Joker: Lucky Cat
+Synergies:
+*{{J|Oops! All 6s}} doubles the odds of lucky cards effects activating.
+*{{J|Hack}} and {{J|Sock and Buskin}} both retrigger cards of certain ranks, increasing the chance for lucky cards of those ranks to activate.
+*{{J|Dusk}} retriggers all cards played on the final hand, increasing the chance for lucky cards to activate.
+*{{J|Hanging Chad}} retriggers the first card played twice, so by positioning a Lucky Card to score first, it'll have more chances to activate.
+*Many Asian countries have superstitions about cats being lucky, specifically the [https://en.wikipedia.org/wiki/Maneki-neko Maneki-neko] (or 'waving cat') which is a figurine based off of the calico [https://en.wikipedia.org/wiki/Japanese_Bobtail Japanese Bobtail] cat breed, which is believed to give good luck to the owner.
+*On the other hand, black cats are associated with bad luck, compared to the white Japanese Bobtail associated with good luck.
+*This Joker is part of a series, along with {{j|Stone Joker}}, {{j|Steel Joker}}, {{j|Glass Joker}} and {{j|Golden Ticket}}, where the Joker seems to only appear once players have at least one card with the relevant enhancement in their deck.
+*Effect
+**Gains {{Mult|X0.2}} per Lucky card triggering -> gains {{Mult|X0.25}} per Lucky card triggering
+
+Anti-synergies:
+
+
+Joker: S%C3%A9ance
+Synergies:
+*{{j|Four Fingers}} and {{j|Shortcut}} both make Straight Flushes easier to play, allowing Séance to trigger more often. {{J|Smeared Joker}} is also helpful for making Straight Flushes, as it doubles the amount of cards one can use for a Straight Flush of any given suit.
+*Jokers that give bonuses when Straights are scored, like {{J|Devious Joker}} and {{J|Crazy Joker}}, can be helpful to make the Straight Flushes Séance needs better to play.
+* Séance can be copied by {{J|Blueprint}} and {{J|Brainstorm}}, meaning one can use them to generate more Spectral cards.
+*{{J|Troubadour}} and {{J|Juggler}} make Straight Flushes easier to find with their increases in hand size. {{J|Drunkard}} and {{J|Merry Andy}} do the same by adding more discards. Merry Andy is slightly less effective at this unless you have more hand size, though, as you may be discarding less cards
+*{{j|Perkeo}} allows you to duplicate the Spectral Card created in the consumable slots at the end of the shop. This can be very strong for a multitude of different strategies, such as using Cryptids to create large amounts of cards whenever needed, holding multiple Wraiths to see many rare Jokers at once, copying Sigils to guarantee a Straight Flush as long as a Straight is present, using Immolate many times to thin massive amounts of the deck, and many more.
+*A number of Spectral cards add enhanced cards to the deck, which can let {{J|Hologram}} and {{J|Vampire}} scale more. Due to being able to add so many enhanced cards so quickly, {{J|Driver's License}} can become an easy addition as well.
+*If one can create a Hex/Ankh and Ectoplasms, {{J|Joker Stencil}} can become very strong, as you can massively increase the effective Mult given by applying Polychrome to it or duplicating it (or both), then add other Jokers that don't decrease Stencil's value.
+*{{J|DNA}} can be used to copy better cards, as Séance can create the Aura Spectral card and Seal-applying Spectral cards. These Spectral cards can be saved until a desirable card is drawn, then used on it, then the card can be copied with DNA.
+*As many Spectral cards can be used to make Five of a Kind or Flush Five more likely, mainly Ouija and Cryptid, Jokers that work better in these kinds of builds, like {{J|The Family}}, or rank-specific ones like {{J|Fibonacci}}, {{J|Scholar}}, {{J|Wee Joker}}, {{J|Hit the Road}}, etc., can become better.
+*Early Sigils can be used to convert many cards in your deck to the same suit, making suit-based Jokers like {{J|Arrowhead}}, {{J|Onyx Agate}}, {{J|Bloodstone}}, etc. better if their suit is the one chosen.
+*{{J|Erosion}} very much appreciates an Immolate from Séance. It does conflict with other Spectral cards that add cards, though.
+*Because you can hold onto a Wraith, {{J|Credit Card}} becomes very valuable, as you can spend the $20 of debt, sell Credit Card, then use Wraith to eliminate the debt and obtain a Rare Joker.
+*A [[Wikipedia:Séance|séance]] is a traditional method for communicating with spirits or the dead. Often but not necessarily, a group are sat around a table with a [[Wikipedia:Mediumship|medium]] leading the ritual.
+*Rarity
+**{{hl|red|Rare}} -> {{hl|green|Uncommon}}
+*Price
+**{{hl|yellow|$7}} -> {{hl|yellow|$6}}
+
+Anti-synergies:
+
+
+Joker: Oops! All 6s
+Synergies:
+*{{J|Space Joker}}'s effect becomes a 2 in 4 chance to upgrade any hand when played. 
+*{{J|Reserved Parking}} and {{J|Business Card}} become guaranteed to give money on held face card and scored face cards respectively.
+*{{J|Hallucination}} guarantees a tarot card is generated when opening a booster pack. 
+*{{J|Bloodstone}} becomes guaranteed to apply its multiplier effect.
+*{{J|Gros Michel}} goes from a 1 in 6 to a 2 in 6 chance of extinction, meaning it will go extinct faster, allowing you to find {{J|Cavendish}} faster.
+*This Joker's name is a reference to [https://en.wikipedia.org/wiki/Cap%27n_Crunch Cap'n Crunch cereal], specifically the "Oops! All Berries" variant. It has become a popular meme online to refer to something excessive in this way.
+
+Anti-synergies:
+
+
+Joker: Canio
+Synergies:
+*{{J|Pareidolia}}: Since it will make ''every'' playing card count as a face card, these two have a natural synergy with each other. Canio will gain {{Mult|X1}} when any playing card is destroyed, allowing the player to keep naturally higher-scoring Kings, Queens, and Jacks, and destroy ranks with less overall utility such as 7s and 6s instead.
+* {{J|Trading Card}}: A Joker that lets you use the first discard to destroy a face card, boosting Canio by {{Mult|X1}} potentially every single Blind.
+* {{J|Erosion}}: An Additive Mult Joker that scales remarkably fast as the number of cards in your full deck drops below the starting amount. It and this Joker work very well with each other; for example, if all face cards are removed from one of the typically-arranged decks while both Jokers are held, Erosion will have {{Mult|+48}}, and Canio a staggering {{Mult|X13}}.
+* {{J|Glass Joker}}: It and this Joker synergize exceptionally well in a Glass Card-centric strategy. Whenever a Glass face card is destroyed, ''both'' will scale simultaneously. Due to a bug, Glass Joker currently does not scale when Glass Cards are destroyed by Spectral Cards, so try to play into {{J|Oops! All 6s}} or The Hanged Man when combining the two.
+* '''The Hanged Man''' can be used to easily destroy face cards.
+* '''Justice''' can enhance face cards into Glass Cards, giving them a chance to destroy themselves after scoring.
+* '''Death''', '''The Tower''', and '''Strength''' do ''not'' trigger this Joker, as a face card becoming a different type of card does not count as destroying it.
+* '''Familiar''' serves dual purpose in a strategy involving this Joker, as it both destroys a random card ''and'' adds additional face cards to the deck.
+* '''Grim''' and '''Incantation''' both destroy a random card.
+* '''Immolate''' destroys 5 random cards in hand, while also giving an immediate burst of money that can be spent to further enhance the quality of your deck.
+* Canio is a reference to "[[Wikipedia:Pagliacci|Pagliacci]]", an Italian opera by Ruggero Leoncavallo. The opera tells the tale of Canio, an actor and the leader of a theatrical company who murders his wife Nedda and her lover Silvio on stage during a performance. The destruction of face cards (which feature people on them) to increase Canio's power is likely in reference to these murders.
+* This Joker is animated, with Canio himself hovering just above the silver card face. Only the other Legendary Jokers and {{J|Hologram}} share this trait.
+* The other legendary Jokers are {{J|Chicot}}, {{J|Perkeo}}, {{J|Triboulet}}, and {{J|Yorick}}.
+* In some early versions and in the game's code, the card was/is misspelled as 'Caino'.
+
+Anti-synergies:
+
+
+Joker: To Do List
+Synergies:
+*{{j|Blueprint}} and {{j|Brainstorm}} can copy To Do List, effectively doubling/tripling the reward.
+*The first letters of each item on the card are an [[Wikipedia:Acrostic|acrostic]] that spells "J-O-K-E-R."
+*Effect
+**Poker hand gives {{hl|yellow|$5}} and changes on payout -> poker hand gives {{hl|yellow|$4}} and always changes at end of round
+*Effect
+**Earn {{hl|yellow|$4}} per requested poker hand -> earn {{hl|yellow|$5}} per requested poker hand
+
+Anti-synergies:
+
+
+Joker: Riff-Raff
+Synergies:
+*The Jokers generated by Riff-Raff can rarely have [[Editions]], including Negative.
+*On higher Stakes, the Jokers generated cannot have [[Stickers]], such as the Eternal sticker.
+*Riff-Raff can create {{j|Cavendish}} if {{j|Gros Michel}} went extinct (destroyed itself) earlier in the run.
+*The word [https://en.wiktionary.org/wiki/riffraff#Noun riff-raff] (sometimes spelled as riffraff) has the meaning of "people with a bad reputation or of the common class", which is fitting in how Riff-Raff only creates Common Jokers.
+*Price
+**{{hl|yellow|$4}} -> {{hl|yellow|$6}}
+
+Anti-synergies:
+
+
+Joker: Reserved Parking
+Synergies:
+*{{j|Oops! All 6s}} guarantees Reserved Parking triggers.
+*{{j|Mime}} retriggers all card held in abilities.
+*{{j|Pareidolia}} makes it so that all cards are considered face cards.
+*{{j|Shoot the Moon}} also wants the player to keep face cards in hand.
+*{{j|Baron}} also wants the player to keep face cards in hand.
+*{{j|Ride the Bus}} also does not want to play face cards.
+*The artwork for this Joker seems to be inspired by [https://web.archive.org/web/20240503234904/https://sigosigns.com/reserved-parking-for-law-enforcement-officer-sign this sign], or one similar to it.
+*This Joker's sprite art has the least amount of unique colors out of every Joker, having a total of two unique colors.
+*Rarity
+**{{hl|green|Uncommon}} -> {{hl|blue|Common}}
+
+Anti-synergies:
+*{{d|Painted}}'s larger hand size makes Reserved Parking potentially better.
+*{{ph|High Card}}
+*{{ph|Pair}}
+
+Joker: Red Card
+Synergies:
+*Red Card needs money to work well and therefore synergizes well with most economy Jokers which provide money, like {{j|Business Card}} or {{j|Rocket}}. 
+*{{J|Astronomer}} can provide free celestial packs that can be used to scale 
+*{{J|Hallucination}} can allow you to still get tarot cards even while skipping.
+*Jokers that care about Tarot cards, such as {{J|Fortune Teller}}, {{J|Driver's License}} and {{J|Vampire}} all become worse.
+*Specific Tarot cards also becomes significantly more painful to take, making jokers such as {{J|Steel Joker}} and {{J|Lucky Cat}} worse.
+*Jokers that care about Planet cards, such as {{J|Constellation}} and {{J|Satellite}}, become significantly worse.
+*It will be significantly harder, if not impossible to scale {{J|Hologram}} and Red Card at the same time.
+*Other jokers that require money to be spent, such as {{J|Flash Card}} or {{J|Campfire}}, will be harder to scale.
+*Jokers which care about the base Mult of a played hand, such as {{J|Bloodstone}}, will lose out on the scaling provided by planets.
+*Skipping blinds for {{J|Throwback}} means less packs to open.
+*Clearance Sale and Liquidation minimize the cost of Booster packs you want to skip.
+*The Telescope voucher gets significantly worse.
+* Mega Booster Packs can only trigger this Joker once per pack, though you can pick up the first card and skip the second to trigger the Red Card. 
+* The [[Wikipedia:Penalty card#Red%20card|red card]] in sports is usually used to signal a large penalty, often for some kind of rule infraction. In most forms of football for example, a red card signals that a player must leave the pitch after causing a foul or acting unsportsmanlike, causing their team to be one player short for the rest of the match.
+* The Red card may also refer to a bright red plastic card used in Blackjack, Where the player inserts the card in the middle of the deck after the dealer shuffles it to mark where the deck should be cut.
+
+Anti-synergies:
+
+
+Joker: Gros Michel
+Synergies:
+* {{J|Oops! All 6s}}: Obtaining these two Jokers simultaneously can either be an immense boon, or a huge risk, depending on the state of the run. Boosting the self-destruction odds to a {{hl|green|1 in 3}} chance means gaining access to {{J|Cavendish}} remarkably faster, but also losing out on a potentially run-saving Additive Mult bonus. Consider all your options before choosing it.
+* Gros Michel's stats were modified heavily prior to its release: During the first demo, it provided {{Mult|+10}} with a {{hl|green|1 in 10}} chance to destroy itself. This then changed to {{Mult|+15}} with a {{hl|green|1 in 8}} chance to destroy itself, and finally, its stats on release were {{Mult|+15}} with a {{hl|green|1 in 4}} chance to destroy itself. It was yet again changed to a {{hl|green|1 in 6}} chance to destroy itself following Patch 1.0.1f.
+*The [[Wikipedia:Gros_Michel_banana|Gros Michel]] is a banana cultivar that once made up the vast majority of bananas consumed around the world. It was sweet, grew densely, and was resistant to bruising in transit. However, it was grown in a massive [[Wikipedia:Monoculture|monoculture]] and was very susceptible to disease. After it was devastated by a fungal pandemic in the 1960s, it was phased out in favor of the more disease-resistant [[Wikipedia:Cavendish_banana|Cavendish]] cultivar. This is represented in the "Extinct!" pop-up once destroyed and replacement in favor of the Cavendish.
+*Effect
+**{{hl|green|1 in 4}} chance to go extinct -> {{hl|green|1 in 6}} chance to go extinct
+*Effect
+**{{hl|green|1 in 8}} chance to go extinct -> {{hl|green|1 in 4}} chance to go extinct
+*Effect
+**{{mult|+10}} -> {{mult|+15}}
+**{{hl|green|1 in 10}} chance to go extinct -> {{hl|green|1 in 8}} chance to go extinct
+
+Anti-synergies:
+
+
+Joker: Midas Mask
+Synergies:
+*{{J|Mime}} means the gold cards make twice as much money.
+*Midas Mask naturally synergizes with {{J|Smiley Face}}, {{J|Scary Face}}, and {{J|Business Card}} when playing the face cards. However, you're going to not want to play your golden face cards later in the game.
+*It has an extremely strong synergy with {{J|Pareidolia}}, which makes it so that all cards are upgraded to Gold Cards when scored.
+*{{J|Golden Ticket}} makes Gold Cards give +$4 when played.
+*{{J|Vampire}} removes the enhancement as the card is scored but provides multiplicative Mult in exchange. So, for every 5 cards scored , Vampire gets another x0.5 mult. This allows Vampire + Midas Mask to reach high multipliers.
+*Midas Mask is anti-synergistic with {{J|Ride the Bus}} and {{J|Reserved Parking}} ''at first''. However, once all of the Golden cards are gold, then these jokers can be great.
+*Finally, {{J|Driver's License}} becomes a nearly free 3x mult when all face cards are gold.
+*Midas Mask's name is a reference to [[Wikipedia:Midas|King Midas]], a king of Greek myth who was cursed to turn anything he touched to gold (the 'Midas touch').
+*Effect
+**All played face cards become Gold -> All scored face cards become Gold
+*Price
+**{{hl|yellow|$6}} -> {{hl|yellow|$7}}
+
+Anti-synergies:
+
+
+Joker: Rocket
+Synergies:
+*{{J|Bootstraps}} increases its Mult provided as players have more money.
+*{{J|Bull}} increases its Chips provided as players have more money.
+*{{J|Baseball Card}} lets Rocket help with scoring while still providing its economic benefit.
+*The increment for defeating a Boss Blind is added before it pays out for the end of that round.
+
+Anti-synergies:
+
+
+Joker: Hack
+Synergies:
+* Any Joker that triggers an effect when a low-rank card is played works well with Hack, as the effects it gives will be doubled. Particularly noteworthy are {{J|Fibonacci}}, which gives a large +Mult boost to three of Hack's retriggers, and {{J|Wee Joker}}, which scales twice as fast on the retriggered 2s.
+* Jokers that generate Tarots, like {{J|Cartomancer}} and {{J|Vagabond}}, are very helpful to making Hack work, as many Tarots either enhance cards or can be used to make more low-rank cards.
+* Jokers that give X Mult from cards are very useful, as the cards that trigger them will do so twice. There aren't as many that work with low-rank cards, but some examples are {{J|Bloodstone}}, {{J|Ancient Joker}}, and {{J|Walkie Talkie}}.
+* If one has enough X Mult from their cards, another retrigger Joker is very useful to combine with Hack. This will usually be either {{J|Dusk}} or {{J|Seltzer}}, though {{J|Blueprint}} and {{J|Brainstorm}} can also be used to copy Hack for a less conditional retrigger. One can also use {{J|Showman}} to try and find another Hack.
+* {{J|Trading Card}} and {{J|DNA}} make it easier to draw your useful low-rank cards. DNA is particularly useful, as it can copy a powerful low-rank card with an enhancement, edition, and seal.
+* {{J|Hiker}} has incredible synergy with Hack, as not only will Hiker scale cards twice as fast, but the retriggering of the cards will also give their chips again. {{J|Lucky Cat}} can also scale twice as fast, since the low-rank lucky cards it will be using to scale have twice as many chances.
+* As Glass cards are so good with Hack's retriggers, {{J|Glass Joker}} can be a nice addition to still get value when they break.
+* {{J|Certificate}} can be used to try and find a low-rank card (or a King/Ace that can be Strengthed) with a powerful seal, or purple seals to generate Tarots for the low-rank cards. However, if it adds too many high-rank cards, Hack will become less valuable, so the risk and reward must be carefully assessed.
+*A "[[Wikipedia:Hack (comedy)|hack]]" is a slang term to refer to both a mediocre comedian and/or re-used, obvious, or stolen jokes from other comedians (explaining the presence of the comedian in the card's artwork). This repetition of low-quality jokes is reflected in the retriggering of low-rank cards.
+
+Anti-synergies:
+
+
+Joker: Marble Joker
+Synergies:
+* Marble Joker will only work with some way to scale Mult. This can be scaling based on hands played, like from {{J|Ride the Bus}} or {{J|Supernova}}, scaling from leveling up High Card, like from {{J|Burnt Joker}} or {{J|Space Joker}}, or even scaling from economy, like from {{J|Bootstraps}} or {{J|Flash Card}}, but it must exist in some form. There aren't many flat +Mult Jokers that will be able to beat the final Boss Blind. (This doesn't need to be from a Joker necessarily, getting enough Pluto cards from Celestial Packs, blue seals, etc. can act as this scaling, but Jokers scaling is easier to pull off generally)
+* {{j|Stone Joker}} possesses a very strong combo with Marble Joker. The worst part about Marble is that after the fifth Stone card it adds, you have maxed out on the Chips from Stone cards you can play in a single hand, and every additional Stone just makes that hand easier to play (or lets you play it multiple times). Stone Joker adds consistent Chips scaling that will give Marble Joker value after it would begin to lose it. It can also serve as a late replacement for Marble, giving it value postmortem.
+* {{j|Driver's License}} will become active very quickly with Marble Joker adding an enhanced card every Blind.
+* {{j|Hologram}} is an extremely strong combo, as it will gain X0.25 Mult every Blind from the Stone card added. It can very rapidly reach a huge X Mult, which can affect whichever +Mult scaler you have to a large extent.
+* {{j|Vampire}} can use Marble as an enhancement generator to scale easier. Builds using Vampire often don't care about the cards in its deck besides enhancements, either, meaning the added cards don't massively hinder it, only making it slightly harder to find other enhanced cards (which is, again, not too bad since you get one automatically every Blind).
+*If the Stone enhancement is removed or replaced, it can be seen that the card created by Marble Joker has a random rank and suit. This doesn't impact the type of a played hand if {{j|Vampire}} removes it.
+
+Anti-synergies:
+
+
+Joker: Devious Joker
+Synergies:
+*{{j|Shortcut}} allows gaps in Straights, making them easier to find and play.
+*{{j|Four Fingers}} allows Straights of length 4, making them easier to find and play.
+*{{j|Runner}} gains Chips when playing a Straight.
+*{{j|Crazy Joker}} gives +12 Mult when playing a Straight.
+*{{j|The Order}} gives X3 Mult when playing a Straight.
+*This joker is part of a series that provides a Chips boost for a specific hand. The others are {{J|Sly Joker}}, {{J|Wily Joker}}, {{J|Clever Joker}}, and {{J|Crafty Joker}}.
+
+Anti-synergies:
+
+
+Joker: The Family
+Synergies:
+*This joker is part of a set that gives strong Mult boosts for playing specific hands, which are unlocked by winning a run without playing that hand. The others are {{J|The Duo}}, {{J|The Trio}}, {{J|The Order}} and {{J|The Tribe}}.
+
+Anti-synergies:
+
+
+Joker: Odd Todd
+Synergies:
+* Odd Todd generates {{Chips|+155}} when five odd ranks are scored, and more if any of those cards retrigger. This amount of Chips encourages taking more + Mult and X Mult Jokers to balance Chips and Mult. Many of them work well, though notable ones include {{J|Fibonacci}} and {{J|Scholar}}, as both also trigger on certain odd ranks
+* Retrigger effects increase the amount of Chips Odd Todd produces. Notably, {{J|Hack}} works very well, as it offers unconditional retriggers on Threes and Fives (which also are triggered by Fibonacci).
+* {{J|Cloud 9}} scales its money generation off having more Nines in your deck. These Nines become better to play with Odd Todd's extra chips.
+* {{J|Trading Card}} and {{J|DNA}} allow the changing of your deck to include more odd ranks and fewer non-odd ranks.
+* {{J|Ride the Bus}} is able to scale very well, as you never want to play non-odd ranks with Odd Todd.
+* {{J|Shortcut}} can let you make {{Ph|Straights}} primarily from odd cards. However, Straights already have a high amount of chip scaling from Saturn/Neptune, and certain other Jokers like {{J|Runner}}.
+*It is similar in style to {{J|Even Steven}}, with that being Mult and even ranks.
+*Due to his theming of odd numbers, Odd Todd's clothes are different from other joker's. He wears a hat with a single point instead of two, and only three baubles instead of four. He also only has one eye open, as opposed to other jokers, who have both of their eyes open.
+*Effect
+**{{chips|+30}} per odd ranked card -> {{chips|+31}} per odd ranked card
+*Effect
+**{{chips|+20}} per odd ranked card -> {{chips|+30}} per odd ranked card
+
+Anti-synergies:
+
+
+Joker: Space Joker
+Synergies:
+*{{J|Burglar}}'s +3 Hands are perfect for trying to level up easy-to-assemble hands like High Card and Pair.
+*{{J|Oops! All 6s}} increases your chances of upgrading the hand to 1 in 2, or 50%. Two copies makes it guaranteed.
+*{{J|Burnt Joker}} is similar, but it provides an upgrade when discarding hands instead of playing them.
+*The reason why an astronaut joker was chosen for this effect might be because [[Planet Cards|planet cards]] are the primary way of upgrading poker hands.
+
+Anti-synergies:
+
+
+Joker: Satellite
+Synergies:
+* Since Satellite is maximized through the use of Planet Cards, it synergizes with {{J|Constellation}}, which gains {{Mult|x0.1}} per planet card used.
+* Satellite benefits from {{J|Astronomer}}, which makes planet cards and Celestial booster packs free.
+
+Anti-synergies:
+* {{J|Smeared Joker}} can make it much easier to unlock the secret hands, thereby maximizing Satellite's value.
+* Telescope can make it harder to achieve max rewards with Satellite, as it lends itself to the same planet card repeating.
+* Planet Merchant and Planet Tycoon increase the frequency of planet cards in the shop, making it easier to find different planet cards.
+*Satellite is a space-themed joker, continuing the space association with Planet Cards like {{J|Supernova}}, {{J|Constellation}}, and {{J|Astronomer}}.
+
+Joker: Smiley Face
+Synergies:
+*{{j|Pareidolia}} makes every card scored provide {{Mult|+5}}.
+*{{j|Sock and Buskin}} will add an ''additional'' {{Mult|+5}} per face card scored.
+*{{j|Triboulet}} provides a Mult multiplier for each played King or Queen.
+*{{j|Business Card}} gives each face card played a 50% chance to provide $2 when scored.
+*{{j|Scary Face}} provides additional Chips for each face card played.
+*{{j|Splash}} causes all face cards ''played'' to provide {{Mult|+5}}.
+*{{j|Baron}}, {{J|Shoot the Moon}}, and {{j|Reserved Parking}} encourages not playing face cards
+*{{j|Ride the Bus}} actively punishes playing face cards
+*Stuff that may be fun to know about this Joker.
+*Effect
+**{{mult|+4}} per face card -> {{mult|+5}} per face card
+
+Anti-synergies:
+
+
+Joker: Delayed Gratification
+Synergies:
+*Works well with any jokers that reward you for not discarding, especially {{J|Banner}} and {{J|Green Joker}}.
+*Any Joker which increases the number of discards (for example, {{J|Drunkard}} or {{J|Merry Andy}}) will benefit Delayed Gratification.
+*Jokers that make poker hands easier to make, like  {{J|Shortcut}},  {{J|Four Fingers}} or {{J|Smeared Joker}} decline the need to discards, thus make Delayed Gratification have more change to take effect.
+* '''The Hook'''‘s forced discards are also considered and will prevent Delayed Gratification from taking effect'''.'''
+* Starting with no discards, '''The Water''' prevents Delayed Gratification from taking effect.
+*The [[Wikipedia:Hourglass|hourglass]] is an ancient method of measuring time, with sand falling from the top bulb to the bottom. An hourglass symbol was also used by many computer systems, to tell the user the system was busy and that they should wait until it is finished.
+
+Anti-synergies:
+
+
+Joker: Hit the Road
+Synergies:
+*{{J|DNA}} can be used to duplicate tons of Jacks for discarding. Most effective when paired with {{J|Blueprint}} or {{J|Brainstorm}} to increase the amount of Jacks created.
+*{{J|Drunkard}}'s +1 Discard allows more Jacks to be discarded.
+*{{J|Merry Andy}} gives +3 Discards, allows more Jacks to be discarded, with the caveat of -1 hand size.
+*The name and effect of this Joker is based on the 1961 hit song "[https://youtu.be/Q8Tiz6INF7I?si=QHVdGDYYDc3qMVaR Hit the Road Jack]", written by Percy Mayfield and originally recorded by Ray Charles.
+
+Anti-synergies:
+
+
+Joker: Madness
+Synergies:
+
+
+Anti-synergies:
+*Effect
+**Triggers on all blinds -> only triggers on Small/Large Blinds
+
+Joker: Crazy Joker
+Synergies:
+* {{j|Devious Joker}}, {{j|Runner}} and {{j|The Order}} will always activate at the same time as this Joker, as well as possibly {{j|Superposition}} and {{j|Séance}}, though those are more specific.
+* {{j|Four Fingers}} and {{j|Shortcut}} both help in making straights easier.
+* As you are mainly just going for the same hand constantly, {{j|Supernova}}, {{j|Space Joker}} and {{j|Card Sharp}} are good. 
+*This joker is part of a series that provide a Mult boost for a specific hand. The others are {{j|Jolly Joker}}, {{j|Zany Joker}}, {{j|Mad Joker}} and {{j|Droll Joker}}.
+
+Anti-synergies:
+
+
+Joker: Chaos the Clown
+Synergies:
+* {{J|Flash Card}}: use the free reroll to boost this after every shop visit
+* {{J|Campfire}} gets a little better with Chaos.
+* {{J|Constellation}} can scale very quickly, as every reroll can create a planet card.
+* {{J|Astronomer}} can let you find more free planet cards.
+*Chaos the Clown's effect applies as soon as it is purchased, bringing the price for the current shop reroll down to $0. This applies whether it is the first reroll for that shop or not. As Chaos the Clown costs $4 but a standard re-roll costs $5, it can be cheaper to buy him to reroll the shop, and you can sell him again later for an extra $2 back.
+
+Anti-synergies:
+
+
+Joker: Stone Joker
+Synergies:
+*{{J|Marble Joker}} provides one Stone Card every blind, effectively scaling Stone Joker at the same time.
+*{{j|Blueprint}} can be paired with {{J|Marble Joker}} to add up to 2 Stone Cards every blind, providing +50 chips for Stone Joker.
+**Blueprint can be reordered after completing a blind, but before selecting a new blind, allowing it to both create a second Stone Card through Marble Joker ''and'' double the chip bonus of Stone Joker (or doubling a more valuable joker if you have one).
+*{{J|DNA}} lets you duplicate stone cards to increase this card's chip bonus quicker. 
+*This Joker is part of a series, along with {{J|Steel Joker}}, {{J|Glass Joker}}, {{J|Golden Ticket}} and {{J|Lucky Cat}}, where the Joker seems to only appear once players have at least one card with the relevant enhancement in their deck.
+
+Anti-synergies:
+
+
+Joker: Cavendish
+Synergies:
+* Additive Mult Jokers capable of scaling really shine with the help of a Joker like this one. However, the ones dependent on playing repeated numbers of hands are less ideal due to its extreme and universal power. For this reason, Jokers that depend on non-hand actions, like {{J|Fortune Teller}} and {{J|Flash Card}}, work exceptionally well.
+* {{J|Blueprint}} and {{J|Brainstorm}}: Copying the ability of this Joker gives an unconditional {{Mult|X9}}, which even {{J|Canio}} struggles to reach in a single run. The former of the two generally works better than the latter, as it will multiply the bonuses from all Additive Mult Jokers as well. If all sources of Additive Mult are 'when scored' effects, there is effectively no difference unless the player has any [[Card Modifiers|Holographic]] Jokers, in which case Blueprint is still better.
+
+Anti-synergies:
+* The disease-resistant [[Wikipedia:Cavendish banana|Cavendish]] banana cultivar makes up the vast majority of bananas consumed around the world. It was introduced after the previous cultivar, the [[Wikipedia:Gros Michel banana|Gros Michel]], was devastated by a fungal pandemic in the 1960s. A similar disaster could occur to wipe out the Cavendish bananas, but more care and preventative measures are in place to stop this from reoccurring. This is represented by the Joker's powerful bonus, the highly unlikely chance of self-destruction, and the requirement for {{J|Gros Michel}} to first go extinct.
+* The waves of energy radiating from the banana in Cavendish's art may be a reference to how [https://en.wikipedia.org/wiki/Banana_equivalent_dose bananas are very faintly radioactive].
+
+Joker: Cartomancer
+Synergies:
+* {{j|Fortune Teller}}: Perhaps the strongest synergy that either of these two have, it will gain {{Mult|+1}} for each Tarot Card used. Skipping as few Blinds as possible, while maximizing on Arcana Packs and copies of '''The Fool''' and '''The Emperor''' can easily shoot it up to {{Mult|+40}} or more. To strengthen the case, it scales ''retroactively'', meaning that it will not be any weaker if this Joker is acquired first than if they were simultaneously.
+* Jokers that scale based on hands/cards played are a good choice, as using this Joker means wanting to see as many Blinds as possible. These include {{j|Green Joker}}, {{j|Ride the Bus}}, {{j|Runner}}, {{j|Square Joker}}, {{j|Supernova}}, {{j|Spare Trousers}}, {{j|Wee Joker}}, and {{j|Obelisk}}.
+* The [[Card Modifiers|Enhancement]] series Jokers ({{j|Glass Joker}}, {{j|Golden Ticket}}, {{j|Lucky Cat}}, {{j|Steel Joker}}, and {{j|Stone Joker}}) all become more accessible while using this Joker. If focusing on a specific type of Enhancement, Cartomancer can more easily balloon their high power by finding the relevant Tarot Card, as well as copies of '''The Fool'''. Of these, {{j|Lucky Cat}} is perhaps the most synergistic, as more Blinds played means more Tarot Cards created, and also more chances to trigger Lucky Cards.
+* {{j|Blueprint}} and {{j|Brainstorm}}: These two can copy Cartomancer's effect at the start of a Blind, meaning 2 or possibly even 3 unique Tarot Cards to choose from, or at the very worst, a bit of extra money for the next [[The Shop|Shop]]. The Joker lineup can also be rearranged immediately afterward to assist with scoring.
+* {{j|Campfire}}: In the event the Tarot Cards are unneeded, this Joker can provide a {{Mult|X0.75}} boost to Campfire on each Ante, which can shoot even higher if '''The Emperor''' or '''The High Priestess''' are generated.
+* {{j|Perkeo}}: An exceedingly rare Legendary Joker that creates a {{hl|sblue|Negative}} copy of a random held consumable at the end of the Shop (meaning it does not take up a consumable slot). This essentially doubles the effect of this Joker, if it creates an ideal Tarot Card, which can be used in bulk when the time comes to more or less mold the Deck into an ideal build. Alternatively, should their effects not be needed, this duo can be a source of incredible economy, due to the higher sell value of the duplicated cards.
+
+Anti-synergies:
+* {{j|Throwback}}: A Joker that strictly encourages skipping as many Blinds as possible. This Joker will have less opportunities to create Tarot Cards if scaling it is more of a priority.
+* The aforementioned '''Crystal Ball''' pairs very nicely with this Joker, for all the same reasons (run-saving, ease of Deck fixing, and Shop RNG manipulation).
+* '''Hieroglyph''' and its upgraded counterpart '''Petroglyph''' allow the player to see up to 3 additional Blinds each, which means even more Tarot Cards to enhance Deck quality. These should be avoided when using the {{d|Black}}, however, as 2 hands and, in the case of '''Petroglyph''', 1 discard every round, is a near guaranteed run loss unless the other held Jokers and poker hand levels are contributing enough raw score.
+*This Joker's art is stylised to mimic a Tarot Card, mirroring {{J|Astronomer}} which has comparable unlock requirements to Cartomancer and is stylised to mimic a Planet Card.
+
+Joker: Flower Pot
+Synergies:
+*{{J|Splash}} is easily one of the best Jokers to use with Flower Pot, since it lets you play smaller hands like Pairs or High Cards and still reap the {{mult|x3}} reward.
+*{{J|Seeing Double}} will always trigger alongside Flower pot when you play a proper hand to do so.
+*{{J|The Family}} and {{J|The Order}} synergize with Flower Pot's best hand types.
+*{{J|Smeared Joker}} loosens the requirements to trigger Flower Pot's effect from one card of each suit to two of each color.
+*In poker, the pot is the chips that have been bet, and therefore the money to be won, likely derived from the word "jackpot".  In this way, Flower Pot is a play on this term, given that Flower Pot helps grow the "pot" with its {{Mult|x3}}.
+*Effect
+**Now includes the base suit of debuffed cards when determining if it will trigger
+
+Anti-synergies:
+* A [[Card Modifiers#Enhancements|Wild Card]] can count as any suit, but only one; i.e. a single Wild Card will not earn the entire bonus by itself. However, four Wild Cards, or three Wild Cards and a normal suited card, will always earn the bonus.
+* {{ph|Four of a Kind}}: Playing this without deck modifications requires one card of every suit anyway.
+* {{ph|Straight}}: It is easy enough to use at least one of every suit, since Straights only care about rank.
+* {{ph|Two Pair}}: Harder to get four different suits than a straight, but it's easier than a Four of a kind.
+* {{ph|Full House}}: With five cards, it's easier to get four different suits.
+*{{ph|Flush}}-based hands: Not without extremely specific circumstances.
+*Any hand with fewer than four cards (unless you have {{J|Splash}}).
+
+Joker: Wee Joker
+Synergies:
+* Any retrigger Jokers work incredibly well with Wee Joker, as rescoring a 2 upgrades Wee Joker another time. In particular, {{J|Hack}} offers unconditional retriggers to 2s, making it very helpful, with one copy providing up to an extra {{Chips|+40}} on a hand with five scoring 2s. {{J|Hanging Chad}} is also useful in the early game, guaranteeing {{Chips|+16}} if a 2 can be scored.
+* Multiplicative Mult-based strategies can incorporate this Joker rather well, thanks to them oftentimes overlooking Chip sources. A large amount of Chips can score far higher than Multiplicative Mult earlier on (as is the case with Jokers like {{j|Ice Cream}}). {{j|Hologram}} is one of the easiest to benefit from, which scales when cards are added to the Deck, including 2s. {{j|Glass Joker}} can also be great when combined with [[Card Modifiers#Enhancements|Glass]] 2s and a source of retriggers, but caution must be taken to replenish any 2s that are destroyed.
+* {{J|Drunkard}} and {{J|Merry Andy}}: The extra discards provided by these Jokers make finding and scoring 2s much easier. With a bit of Deck fixing, one can also potentially seek out {{J|Burnt Joker}} to consistently scale very strong hands like Five of a Kind.
+* {{J|Even Steven}} and {{J|Fibonacci}}: Giving {{Mult|+4}} and {{Mult|+8}}, respectively, whenever a 2 is scored, either of these can make playing large quantities of 2s even more rewarding, especially when accounting for retriggers.
+* {{J|Trading Card}}: A source of both value and Deck thinning, which helps this Joker by making 2s proportionally more common, and making acquiring better scoring easier, as the run progresses.
+* {{J|Ancient Joker}}: Can be potentially useful if there are a large number of Wild 2s, as this enables the extremely powerful {{ph|Flush Five}} - a hand that can guide a run far into Endless Mode in combination with repeated Multiplicative Mult sources and [[Planet Cards|Planet Card]] scaling through access to '''Eris'''. {{J|Bloodstone}} can be considered in its absence by creating a large number of 2s of {{Suit|Hearts}}, albeit its randomness factor makes it a lot less reliable.
+* {{J|DNA}}: By duplicating 2s, especially 2s with a Red Seal, this Joker can scale exponentially faster, making it a near auto-include when discovered while holding this Joker, even if just temporarily.
+* '''Hieroglyph''' is easily the best acquaintance to this Joker of all the Vouchers; climbing down an Ante gives more opportunity to score 2s and propel Wee Joker to absurd levels of Chips. Its upgraded counterpart, '''Petroglyph''', may be worth consideration if the player has access to extra discards (such as through the {{d|Red}} or {{j|Drunkard}}), but it is much less justifiable on the higher [[Stakes]].
+* '''Wasteful''', as well as its upgraded counterpart '''Recyclomancy''', are very close runners-up to the aforementioned Voucher. As scoring non-2s is less ideal, discards are preferable to extra hands in order to locate 2s.
+* '''Telescope''' is a very good pickup, as it allows for much easier acquisition of powerful Planet Cards like '''Planet X''' later in the run. The {{d|Nebula}} is not a great way to get it, however, as the -1 consumable slot malus can make it harder to fix [[The Shop]] and [[Booster Packs]] to include more desirable Tarot and Spectral Cards.
+* The '''Crystal Ball''' Voucher is a good pickup, too, since it allows the player to hold onto an extra unwanted Tarot Card, thereby making the best ones for Wee Joker more likely to appear.
+* The card art is identical to the default {{J|Joker}}, but scaled down to a smaller size. This also makes all Joker Stickers appear at a scaled-down size on the card itself.
+* This Joker's abnormal size makes it easy to distinguish from other face-down Jokers when facing against the '''Amber Acorn''' Finisher Blind. It shares this distinction with {{J|Half Joker}}, {{J|Photograph}}, and {{J|Square Joker}}.
+*Effect
+**Starts at {{chips|+10}} -> starts at {{chips|+0}}
+
+Anti-synergies:
+
+
+Joker: Flash Card
+Synergies:
+* Economy Jokers are critical to Flash Card's success. Being able to get more money translates directly into more Mult. Particularly helpful are scaling Economy Jokers, like {{J|Cloud 9}} and {{J|Rocket}}, though most of them will work.
+* {{J|Campfire}} is very good with Flash Card, as the large amount of rerolls being performed and strong economy allows many cards to be sold, scaling Campfire very high.
+* Other Jokers that give {{Mult|X}} are helpful, as they allow Flash Card's scaling to be more effective. Particularly, {{J|Constellation}} can scale very quickly, as every reroll can create a planet card.
+* The Reroll Surplus and Reroll Glut [[Vouchers]] both make rerolls cheaper, allowing for Flash Card to scale more.
+* The Heiroglyph and Petroglyph Vouchers allow you to see more shops and play more blinds, allowing for greater scaling.
+* The D6 [[Tags|Tag]], while skipping one shop, makes reroll start at $0 at the next shop, saving up to $5 on every reroll in that shop.
+* The Overstock and Overstock Plus Vouchers make rerolls more valuable, as you get to see more cards when doing so.
+* The Hone and Glow Up Vouchers will create more Editioned Jokers, making good Editioned Jokers have a higher chance to show up.
+* The Merchant and Tycoon Vouchers for Tarot and Planet cards can be strong with builds that benefit from those cards, as they provide cards to buy even when your Joker slots are full.
+* Gold cards and Gold seals generate money mid-round, allowing Flash Card to scale more.
+*[[Wikipedia:Flashcard|Flash cards]], or flashcards, are cards normally used as memory aids for learning new topics.
+
+Anti-synergies:
+
+
+Joker: 8 Ball
+Synergies:
+*{{J|DNA}}: Can be used to generate more 8s every blind.
+*{{J|Oops! All 6s}}: Can be used to increase the chance of a Tarot card spawning.
+*{{J|Blueprint}} and {{J|Brainstorm}}: Can be used to copy 8 Ball to spawn more Tarot Cards.
+*The visual design of this card is based on the [[Wikipedia:Magic 8 Ball|Magic 8 Ball]], which itself is based on the 8 ball used in pool or billiards. The users holds the ball with the 8 facing them, and asks the Magic 8 ball a question. They then turn it over, and one of 20 answers (usually a variation on yes, no, or maybe) will appear in a window on the back of the ball.
+*Effect
+**Create a {{hl|cyan|Planet}} card if played hand contains 2 or more {{hl|orange|8s}} -> {{hl|green|1 in 4}} chance for each played {{hl|orange|8}} to create a [[Tarot Cards|{{hl|purple|Tarot}}]] card when scored
+*Artwork
+**Background changed blue -> purple (matching the color of [[Tarot Cards]] it now creates)
+*Effect
+**Created card changed {{hl|purple|Tarot}} -> {{hl|cyan|Planet}}
+*Rarity
+**{{hl|green|Uncommon}} -> {{hl|blue|Common}}
+*Artwork
+**Background changed purple -> blue (matching the color of [[Planet Cards]] it now creates)
+
+Anti-synergies:
+
+
+Joker: Showman
+Synergies:
+*This Joker existed in the first playtest build, but was absent during the two public demos. However, numerous glitches that allow the same effect to be achieved were demonstrated during the time the demo was available, leading players to believe Showman was influenced by these glitches.
+*This Joker is referred to as "[https://en.wikipedia.org/wiki/Ringmaster_(circus) Ring Master]" within the code. This is probably due to how the two phrases are often used interchangeably.
+
+Anti-synergies:
+
+
+Joker: Baron
+Synergies:
+* {{J|Mime}} over doubles this card's multiplier per King (from 1.5x, to 2.25x per King).
+* {{j|Reserved Parking}} has a 50% chance of giving $1 for each King (or other face card) held in hand.
+* {{J|Midas Mask}} can add a buff to scored Kings, providing an additional benefit thereafter when Kings are held in hand.
+* {{J|Shoot the Moon}} makes a great pair with Baron, as the 13 mult from the Queens will each be multiplied by 1.5. However, for the Queens to trigger before the Kings, you must physically move the Queens to the left of your Kings. {{J|Raised Fist}} effectively does the same thing.
+* If the player's deck is mostly comprised of Kings, {{J|Juggler}} and/or {{J|Troubadour}} can increase the maximum number of cards held in hand and thus allow Baron to trigger more times.
+*[[Wikipedia:Baron|Baron]] and Baroness are titles of nobility, usually lower than a King or Count, but higher than a Knight or Lord.
+
+Anti-synergies:
+
+
+Joker: Throwback
+Synergies:
+*This Joker originally gave {{Mult|x0.5}} per Blind skipped in the second demos, but this effect was only for Blinds skipped after picking it up. It has since been changed to be retroactive, and to only give {{Mult|x0.25}}.
+*The name Throwback is possibly a reference to the 80s styling of this Joker, with the arcade carpet detailing in the background lending a retro feel. It may also be a reference to the [https://en.wikipedia.org/wiki/Vaporwave Vaporwave] internet phenomenon.
+
+Anti-synergies:
+
+
+Joker: Golden Joker
+Synergies:
+* Economy-based scalers, like {{J|Bull}} and {{J|Flash Card}}, appreciate the extra money brought in by Golden Joker.
+* Golden joker can be used to help jump start {{J|To the Moon}}, achieving higher interest levels sooner. To The Moon is, with $25 held, a strict upgrade to Golden Joker.
+* Tarot generators can be useful with Golden Joker, since the money Golden provides can increase the value of Hermit. Temperance also likes Golden, as it has a base sell value of $3.
+*Golden Joker is one of the few non-effect Jokers to have a consistent, unconditional, unchanging effect. The others are {{J|Joker}} and {{J|Credit Card}}.
+
+Anti-synergies:
+
+
+Joker: Onyx Agate
+Synergies:
+* {{J|Gluttonous Joker}} also triggers when Club cards are played, though the bonus is strictly inferior.
+* {{J|Smeared Joker}} allows Spade suit to benefit from Onyx Agate as well.
+* {{J|Blackboard}} can be an easy addition, as if you have your deck set up to have a lot of Clubs, Blackboard will benefit too.
+* Retrigger Jokers work very well with Onyx Agate, as the extra triggers adds more Mult.
+* Wild Cards count as Clubs, which will synergize with Onyx Agate.
+* X Mult from card effects are useful with Onyx Agate, as the Mult it provides is from the scored hand. Some Jokers that use these style of effects are {{J|Photograph}}, assuming the face cards are after other clubs, {{J|The Idol}}, and {{J|Triboulet}}. Glass cards are also very useful with Onyx Agate, so {{J|Glass Joker}} can be a useful addition to provide additional X Mult when Glass cards break.
+*Onyx Agate is one of four stone/mineral themed jokers unlocked by having 30 cards of that suit in your deck. The others are {{J|Arrowhead}} (spades), {{J|Bloodstone}} (hearts), and {{J|Rough Gem}} (diamonds).
+*Effect
+**{{mult|+8}} per Club card -> {{mult|+7}} per Club card
+
+Anti-synergies:
+
+
+Joker: Jolly Joker
+Synergies:
+*{{J|Sly Joker}} and {{J|The Duo}} pair well with this, as both will trigger on the same activation as this joker.
+* {{J|Half Joker}} can be easily triggered along with this joker.
+*{{J|Square Joker}} also becomes easier to use, as playing a pair doesn't require playing five cards.
+* {{J|Spare Trousers}} pairs well with this joker, as triggering it will always trigger Jolly Joker.
+*Jokers that discourage discarding, such as {{J|Banner}}, {{J|Delayed Gratification}}, or {{J|Green Joker}}, work well with this joker, as pairs are easier to achieve than most other hands.
+*Similarly, Jokers that rely on having no discards between hands, such as {{J|Burglar}} or {{J|Mystic Summit}} also work well.
+*{{J|Stuntman}} can also work well due to the hand size not mattering as much.
+*Jolly Joker can never trigger on a High Card, even with {{J|Splash}}.
+*This joker is part of a series of Common Jokers which provide a Mult boost for playing a specific hand type. The others are {{J|Zany Joker}} for Three of a Kinds, {{J|Mad Joker}} for Two Pairs, {{J|Crazy Joker}} for Straights, and {{J|Droll Joker}} for Flushes.
+*Jolly Joker is the center of various miscellaneous card effects included in the purposefully unbalanced ''Balatro'' [https://github.com/MathIsFun0/Cryptid Cryptid Mod] made by programmer MathIsFun0. This Joker could be considered a calling card of theirs.
+
+Anti-synergies:
+
+
+Joker: Brainstorm
+Synergies:
+*When copying chance-based Jokers like {{J|Space Joker}}, the chance is rolled independently for each copy of that joker. This means if one Joker triggers, the copies aren't guaranteed to trigger at the same time.
+*It is impossible to copy Brainstorm with another Brainstorm, unlike Blueprint.
+*The card art depicts a "back of the napkin" sketch, a rough calculation or idea quickly sketched out during a conversation at a bar or restaurant, which could be seen as the conception of the Joker being copied. This also reflects its limitations compared to the more versatile {{J|Blueprint}}, which depicts a more deliberate and detailed technical drawing.
+*This is the only Joker that has a 90 degree corner (top left) in its card art, as all other jokers have a rounded radius in all their corners.
+
+Anti-synergies:
+
+
+Joker: Astronomer
+Synergies:
+*{{J|Constellation}}: The free planet cards and packs allows players to buff this Joker up very fast. 
+*{{J|Campfire}}: Buying and selling planet cards will gain you some money while also scaling Campfire.
+*During the first playtest build, Astronomer only provided free Planet Cards in the shop. Upon release, it was buffed to provide free planet cards and free Celestial Packs.
+*This joker's art is stylised to mimic a Planet card, mirroring {{J|Cartomancer}} which has comparable unlock requirements to Astronomer and is stylised to mimic a Tarot card.
+
+Anti-synergies:
+
+
+Joker: Mime
+Synergies:
+*Mime synergies well with {{J|Baron}}, {{J|Raised Fist}}, {{J|Reserved Parking}}, and {{J|Shoot the Moon}}, due to them each causing held cards to give bonuses, and Mime ends up doubling that bonus.
+*Mime can also work well with {{J|Steel Joker}}, due to them both greatly benefiting from a high quantity of steel cards in the deck.
+*{{J|Blueprint}}/{{J|Brainstorm}}: If Blueprint or Brainstorm is copying a different joker when a hand is played, and then moved to copy Mime as the hand is being scored, the Blueprint/Brainstorm will copy Mime when it retriggers Blue Seals/Gold Cards.
+*Mime benefits from jokers that increase hand size, such as {{J|Juggler}} and {{J|Troubadour}}, due to them allowing more cards with "Held in Hand" abilities to be active at once.
+*In contrast, Mime suffers from Jokers that reduce hand size, such as {{J|Stuntman}} and {{J|Merry Andy}}, due to them lowering the number of cards with "Held in Hand" abilities able to be active at once.
+*The art of [[Wikipedia:Mime artist|mime]] originated in ancient Greece, with the classic white face and makeup being popularized in 19th-century France. Berets like those worn by our Joker here are also popular in France!
+
+Anti-synergies:
+
+
+Joker: Card Sharp
+Synergies:
+*{{j|Burglar}}: +3 hands, allowing more chances to play repeated hands.
+*{{j|Juggler}}: +1 hand size, allowing strong hands to be assembled more easily.
+*{{j|Drunkard}}: +1 discard, allowing more chances to assemble desired hands.
+*The Needle: This boss hard counters Card Sharp as it only allows 1 hands to be played. [[Burglar (Joker)|Burglar]] is an effective safety against this, as discards are converted after the blind effect is applied.
+*The Eye: This boss also hard counters Card Sharp as it does not allow repeated hand types, making it impossible to play a second hand for the x3 Mult effect.
+*[[Wikipedia:Card sharp|Card sharps]], sometimes known as card sharks, are people who use skill and/or deception to win poker games.
+
+Anti-synergies:
+
+
+Joker: Fortune Teller
+Synergies:
+*{{j|Vagabond}}, {{j|Cartomancer}}, {{j|Hallucination}}, {{j|8 Ball}}, and {{j|Superposition}} can all provide Tarot cards.
+*{{j|Vampire}} consumes [[Card Modifiers#Enhancements|Enhancements]] from played cards, making it a good combo with Fortune Teller.
+*[[wp:Tarot_card_reading|Tarot card readings]] are occasionally used by fortune tellers to help them make predictions.
+
+Anti-synergies:
+
+
+Joker: Bull
+Synergies:
+*'''The Ox''' can neutralize Bull if most played hand is played, resetting money to $0.
+* A [https://en.wikipedia.org/wiki/Market_trend#Bull_market bull market] is a stock market trend in which stock prices tend to rise for an extended period of time.
+
+Anti-synergies:
+
+
+Joker: Stuntman
+Synergies:
+*{{J|Juggler}}: +1 hand size, partially offsetting the -2 hand size penalty.
+*{{J|Turtle Bean}}: The +5 hand size completely removes Stuntman's penalty, but is only temporary.
+*{{J|Troubadour}}: +2 hand size, which completely removes Stuntman's penalty, at the cost of -1 hand per round.
+*{{J|Blueprint}} and {{J|Brainstorm}} can both copy Stuntman's +250 chips bonus without the -2 hand size penalty.
+*{{J|Blackboard}}: A smaller hand size makes it easier to trigger Blackboard's condition.
+*{{J|Raised Fist}}: The reduced hand size makes it easier to play all the smaller ranked cards from your hand. An early Stuntman + Raised Fist can score over 5,000 for each high card played, making it arguably the most efficient money-to-score ratio that two jokers have together.
+
+Anti-synergies:
+*The '''Paint Brush''' and '''Palette''' vouchers, when both are purchased, will completely negate Stuntman's penalty for the rest of the run.
+*This Joker's appearance is in reference to the costume worn by the American stuntman [https://en.wikipedia.org/wiki/Evel_Knievel Evel Knievel].
+*If you generate Stuntman through a Judgement [[Tarot Cards|Tarot Card]], you will get the extra chips for the current hand when played without cards being discarded from your hand, but will drop your hand size when you next draw.
+*Effect
+**{{chips|+300}} -> {{chips|+250}}
+*Rarity
+**{{hl|green|Uncommon}} -> {{hl|red|Rare}}
+*Price
+**{{hl|yellow|$6}} -> {{hl|yellow|$7}}
+*Effect
+**{{hl|green|1 in 5}} to give {{chips|+500}} -> {{chips|+300}}, {{hl|orange|-2}} hand size
+
+Joker: Runner
+Synergies:
+*{{j|Shortcut}} allows Straights to be made with gaps in them, making it easier to get that hand
+*{{j|Four Fingers}} allows Straights to be scored with only four cards instead of the usual five, making it easier to get that hand
+*This is the only Chip Joker that scales by playing a hand of a specific type; in this case, Straights (which can include Straight Flushes). Its counterpart, {{j|Spare Trousers}}, scale its +Mult by playing hands that contain Two Pairs.
+*The runner's ID number, #345, is itself a (short) Straight.
+*Effect
+**Starts at {{chips|+20}} -> starts at {{chips|+0}}
+**Gives {{chips|+10}} per Straight -> gives {{chips|+15}} per Straight
+
+Anti-synergies:
+
+
+Joker: Spare Trousers
+Synergies:
+*{{J|Square Joker}}: +4 Chips any time a played hand consists of exactly four cards. Since a standard Two Pair is exactly four cards, the player can strengthen both Square Joker and Spare Trousers at the same time.
+*{{J|Supernova}}: Spare Trousers incentivizes playing Two Pair repeatedly, pairing this with Supernova will lead to large multipliers.
+*{{J|Space Joker}}: Like with Supernova, the repeated playing of Two Pair synergizes well with this Joker.
+*{{J|Card Sharp}}: Because it's unlikely to win with one Two Pair hand, Card Sharp will provide an additional X3 Mult on subsequent Two Pair hands.
+*{{J|Obelisk}}: While potentially a detriment if acquired alongside Spare Trousers at the start, this Joker will allow for an extreme power spike in the mid-to-late game, where it is much easier to pivot from an overplayed Two Pair to hands like Flushes and Full Houses.
+*The background of the card art consists of a pattern of little trousers (also called pants in some parts of the world).
+
+Anti-synergies:
+
+
+Joker: Loyalty Card
+Synergies:
+*{{j|Burglar}}: +3 hands, allowing Loyalty Card to trigger every blind.
+*{{j|Acrobat}} gives X3 Mult on the final hand. This can make it easier to use all your hands and win on the final hand.
+*{{j|Blueprint}}/{{j|Brainstorm}} copy the ability of another Joker, which can double your Loyalty Card's effect. Only do this when Loyalty Card's ability is active.
+
+Anti-synergies:
+*Grabber and Nacho Tongs give you extra hands per round, helping you trigger this more often.
+*Many delis and coffee shops provide frequent customers with loyalty cards like this, which may be punched, stamped, or otherwise marked every time the customer makes a purchase. This usually comes with a reward, and the completed card can be handed in for a free coffee, a discount, or some other reward.
+*The text on the bottom of the card will change to "Active!" and the card will wiggle when the multiplier will be applied.
+*If you copy this card (for example, with [[Spectral Cards|Ankh]]), it keeps the same number of rounds played.
+
+Joker: Hanging Chad
+Synergies:
+*{{J|Photograph}}: If a face card is the first scored card in a hand, provides 8x Mult, which is an extremely strong combo for 2 common jokers.
+*{{J|Scary Face}}: If a face card is the first scored card in a hand, Hanging Chad will cause Scary Face's Chips bonus to face cards to apply thrice.
+*{{J|Scholar}}: Similar to the above examples, but with Aces.
+*{{J|Bloodstone}}: If the first card scored is a heart, can provide up to 3.375x Mult which can be guaranteed with {{J|Oops! All 6s}}.
+*Glass cards benefits greatly as it can provide a whopping x8 base Mult.
+*Lucky cards have a higher chance to proc with three triggers.
+* Polychrome cards also greatly benefit as it can provide x3.375 base Mult.
+*A [[Wikipedia:Chad (paper)|chad]] is the fragment of paper created when a hole is made in paper or similar substances, for example, with a hole punch. A hanging chad is one that hasn't fully been separated (specifically in a way where it's only still attached to the paper at a singular corner), and in some systems, such as computer punch cards or voting machines, it could cause errors.
+*The dot and line markings along the left edge of the card are binary numbers, where a dot represents 0 and a dash represents 1. The four visible numbers are, from top to bottom, 1, 2, 4, and 5. The hanging chad presumably obscures the symbols "<code>••||</code>" or "0011", which is binary for 3.
+*Possibly a reference to the 2000 US Presidential election, where hanging chad on punch card voting ballots became a subject of major controversy, requiring multiple recounts. The election was so close that a court had to decide whether ballots with hanging chad should be counted.
+*Effect
+**Retriggers first played card {{hl|orange|once}} -> retriggers the first played card {{hl|orange|2}} times
+
+Anti-synergies:
+
+
+Joker: Smeared Joker
+Synergies:
+*{{j|Lusty Joker}} - Each Diamond or Heart provides {{Mult|+3}}.
+*{{j|Greedy Joker}} - Each Diamond or Heart provides {{Mult|+3}}.
+*{{j|Wrathful Joker}} - Each Club or Spade provides {{Mult|+3}}.
+*{{j|Gluttonous Joker}} - Each Club or Spade provides {{Mult|+3}}.
+*{{j|Bloodstone}} - Each Diamond or Heart has a 1 in 2 chance to provide a {{Mult|X1.5}}.
+*{{j|Rough Gem}} - Each Diamond or Heart provides $1.
+*{{j|Onyx Agate}} - Each Club or Spade provides {{Mult|+7}}.
+*{{j|Arrowhead}} - Each Club or Spade provides {{Chips|+50}}.
+*{{j|Ancient Joker}} - {{Suit|Diamonds}} and {{Suit|Hearts}} can be played interchangeably. {{Suit|Clubs}} and {{Suit|Spades}} can be played interchangeably.
+*{{j|Castle}} - {{Suit|Diamonds}} and {{Suit|Hearts}} can be discarded interchangeably. {{Suit|Clubs}} and {{Suit|Spades}} can be discarded interchangeably.
+*{{J|Seeing Double}} - {{Suit|Clubs}} and {{Suit|Spades}} based [[Poker Hands#Flush|Flushes]] will still trigger the {{Mult|x2}} effect.
+*{{J|Flower Pot}} - Only two {{Suit|Clubs}} or {{Suit|Spades}} and two {{Suit|Diamonds}} or {{Suit|Hearts}} need to be played to trigger the {{Mult|x3}} effect.
+* {{J|Troubadour}} - With a hand size of 10, there will always be a [[Poker Hands#Flush|Flush]] in hand.
+* '''The Head''' - All Diamond and Heart cards are debuffed.
+* '''The Window''' - All Diamond and Heart cards are debuffed.
+* '''The Club''' - All Club and Spade cards are debuffed.
+* '''The Goad''' - All Club and Spade cards are debuffed.
+*This card's name and design are a reference to how in a normal playing cards deck, Clubs and Spades are the same color, just like Diamonds and Hearts. As such, if the actual symbol of the suit was smeared and illegible, it would be difficult to tell them apart.
+*Due to the letters being smeared, this Joker is one of the only Jokers to not contain the word "Joker" in its sprite.
+
+Anti-synergies:
+
+
+Joker: Sixth Sense
+Synergies:
+*{{j|Perkeo}} can copy any Spectral Card created by Sixth Sense.
+*{{j|DNA}} can copy the 6 before it is destroyed (order of Jokers doesn't matter).
+*{{j|Credit Card}} combined with [[Spectral Cards|{{hl|sblue|Wraith}}]] allows you to spend $20 in debt, and then use Wraith to eliminate the debt while obtaining a Rare Joker.
+*Another copy of Sixth Sense does '''not''' work because the first copy will destroy the 6 before the second copy activates. 
+*A sixth sense, also known as [[wp:Extrasensory perception|Extrasensory perception]], is the power of perception beyond the five senses of sight, hearing, touch, smell, or taste.
+*Rarity
+**{{hl|red|Rare}} -> {{hl|green|Uncommon}}
+
+Anti-synergies:
+
+
+Joker: Mad Joker
+Synergies:
+*{{j|Spare Trousers}} gains Mult when playing a Two Pair.
+*{{j|Square Joker}} gains Chips any time a played hand consists of exactly 4 cards. Since a standard Two Pair is exactly four cards, the player can strengthen Square Joker while getting Mult from Mad Joker.
+*{{j|Sly Joker}} and {{j|Clever Joker}} give Chips on a Pair and Two Pair respectively.
+*{{j|Jolly Joker}} gives Mult if the played hand contains a Pair. 
+*This joker is part of a series which provide a Mult boost for a specific hand. The others are {{j|Jolly Joker}}, {{j|Zany Joker}}, {{j|Crazy Joker}} and {{j|Droll Joker}}.
+*Effect
+**{{Mult|+20}} if played hand contains Four of a Kind -> {{Mult|+10}} if played hand contains a Two Pair
+*Artwork
+**The cards the Joker holds were changed to match the new Two Pair effect
+
+Anti-synergies:
+
+
+Joker: Bloodstone
+Synergies:
+* {{J|Lusty Joker}} also triggers when Hearts are scored.
+* {{J|Oops! All 6s}} is incredibly useful, guaranteeing that this Joker's effect triggers. Because Bloodstone works so well with Oops! All 6s, stacking other chance-based Jokers, like {{J|Lucky Cat}}, {{J|Business Card}}, and {{J|Hallucination}}, can be helpful to maximize the value of Oops! All 6s.
+* Retrigger Jokers are very useful, as they make Bloodstone's inconsistency matter less with more overall triggers.
+* Other X Mult from hand Jokers, like {{J|The Idol}} and {{J|Triboulet}}, are very helpful, as they push Mult even higher combined with Bloodstone's effect and other retrigger Jokers.
+* {{J|Smeared Joker}} allows both Diamonds and Hearts to trigger Bloodstone.
+*Before [[Update 1.0.1f]], this was the only chance-based Joker to have a 1 in 3 chance, therefore required two {{J|Oops! All 6s}} to have 100% activation chance. It has since been changed to a 1 in 2 chance of triggering.
+*Bloodstone is one of four stone/mineral themed jokers unlocked by having 30 cards of that suit in your deck.  The others are {{J|Arrowhead}} (spades), {{J|Rough Gem}} (diamonds), and {{J|Onyx Agate}} (clubs).
+*This Joker's effect references how hearts pump blood.
+*Effect
+**{{hl|green|1 in 3}} chance for {{Mult|X2}} -> {{hl|green|1 in 2}} chance for {{Mult|X1.5}}
+
+Anti-synergies:
+
+
+Joker: Trading Card
+Synergies:
+*{{j|Drunkard}} gives +1 Discard, allowing for a spare first discard to be used with no consequence.
+*{{j|Merry Andy}} gives +3 Discards, making the discard used to activate Trading Card inconsequential.
+*{{J|Canio}} gives {{Mult|x1}} for every destroyed face card, dramatically improving the value proposition of Trading Card.
+*{{J|Erosion}} gives {{Mult|+4}} for every card less than your deck starting amount.
+*{{J|Ride the Bus}} is easier to keep the effect of, as you can destroy face cards.
+*[[Card Modifiers#Seals|Purple Seal]] activates before the destruction, so you can get both a Tarot card and $3.
+*In real life, trading cards are often bought or sold from collectors.  This joker is playing on this theme by "trading" your first discard for money.
+*The design of this joker is based on common trading card game designs.  It appears that it has a property (or name) of "Joker", and two parameters: one 4 and one 3.  In the bottom right, the card appears to be number 11 out of 96.
+*Price
+**{{hl|yellow|$5}} -> {{hl|yellow|$6}}
+*Effect
+**Gives {{hl|yellow|$5}} on payout -> gives {{hl|yellow|$3}} on payout
+
+Anti-synergies:
+
+
+Joker: Pareidolia
+Synergies:
+* {{J|Business Card}}: All cards scored have a 1 in 2 chance to generate {{hl|yellow|$2}}. This means a played hand with 5 scoring cards will generate an average of {{hl|yellow|$5}}, as much as {{J|Rough Gem}} when playing a {{Suit|Diamonds}} {{Ph|Flush}}.
+* {{J|Faceless Joker}}: Gives {{hl|yellow|$5}} for every discard that has at least 3 cards.
+* {{J|Reserved Parking}}: All cards held in hand will have a 1 in 2 chance to generate {{hl|yellow|$1}}. This translates to an average of {{hl|yellow|$0.5}} per held card on every played hand, and becomes stronger as the player's hand size increases ''or'' their played hands begin containing fewer cards.
+* {{J|Smiley Face}}: All scored cards get {{Mult|+5}} each (up to {{Mult|+25}} with no other effects).
+* {{J|Scary Face}}: All scored cards get {{Chips|+30}} each (up to {{Chips|+150}} with no other effects).
+* {{J|Sock and Buskin}}: All scored cards trigger twice. Pairing this with the aforementioned Business Card, Smiley Face, and/or Scary Face means twice as much money, +Mult, and Chips, respectively.
+* {{J|Midas Mask}}: All scoring cards become Gold Cards when played, which allows for huge amounts of money generation as the run progresses and the player's hand size increases (as much as {{hl|yellow|$21}} with the base hand size of 8 and a round-ending {{Ph|High Card}}). These two and {{J|Vampire}} can combine to boost Vampire by X0.5 extra Mult ''per hand played'', as long as each hand has 5 scoring cards.
+* {{J|Canio}}: Destroying any card gives it {{Mult|X1}}. Since only playing cards count as face cards and not Jokers or consumables, the effects of {{J|Ceremonial Dagger}} and {{J|Madness}}, or the 'food' Jokers that can destroy themselves (such as {{J|Popcorn}}) will ''not'' trigger Canio's scaling.
+* {{J|Splash}}: All played cards trigger any Jokers that apply to scored face cards.
+* {{J|Photograph}}: Despite it buffing face cards, combining it with this Joker typically has somewhat limited effectiveness, as it gives its {{Mult|X2}} when the first ''card'' in the played poker hand is scored, meaning it happens before any of the other scored cards have a chance to activate their own 'when scored' effects. However, pairing it with the aforementioned Smiley Face and/or Sock and Buskin makes it a bit stronger, and it also allows for far easier ballooning of the power of Glass Cards, cards with a Red Seal, and/or Polychrome playing cards.
+*{{J|Luchador}}, {{J|Mr. Bones}}, and {{J|Chicot}}: In the absence of another way to circumvent select Boss Blinds, any of these Jokers will let the player avoid almost certain death when faced with '''The Mark''' or '''The Plant'''. Investing in an '''Ectoplasm''' [[Spectral Cards|Spectral Card]], a '''Negative [[Tags|Tag]]''', or the '''Blank''' Voucher (leading to '''Antimatter''') can all be worth considering in these cases, as being down two scoring Jokers can make a run incredibly dangerous, much more so than just one would.
+
+Anti-synergies:
+*{{J|Ride the Bus}} will reset back to {{Mult|+0}} on every hand played when Pareidolia is present.
+*Pareidolia is one of the few Jokers in the game that almost necessitates the use of a specific Voucher(s). '''Director's Cut''' and its upgraded counterpart '''Retcon''' are one of the only ways to boost a Pareidolia build's stability, by allowing the near-guaranteed avoidance of two run-enders (discussed below) so long as the player has money.
+*'''The Mark''': All ''cards'' are drawn face-down, making it far more difficult to assemble a sufficiently-scoring hand. This can be somewhat remedied by carrying Enhancing or Suit-changing [[Tarot Cards]] into this Boss Blind, allowing a few cards to be identified at a time. Similarly, and more effectively, albeit much rarer, the '''Ouija''' and '''Sigil''' Spectral Cards can completely negate the power of this Boss Blind, by guaranteeing that a potentially lethal hand can be scored ({{Ph|Five of a Kind}}/{{Ph|Flush Five}} and {{Ph|Flush}}/{{Ph|Straight Flush}}/{{Ph|Flush House}}, respectively).
+*'''The Plant''': All ''cards'' are debuffed, meaning they cannot provide 'when scored' or 'held in hand' effects at all and utterly crippling the player's score. This is an almost guaranteed run-ender against a Pareidolia build unless the player's other Jokers and poker hand levels provide enough raw scoring independent of it (in which case replacing it may be a better move than keeping it).
+*[[Wikipedia:Pareidolia|Pareidolia]] can be defined as "the perception of apparently significant patterns or recognizable images in random or accidental arrangements of shapes and lines", which can include faces. This plays into its ability making all cards count as face cards; it makes the Blinds the player is up against perceive face cards where there may otherwise be none.
+
+Joker: The Tribe
+Synergies:
+*{{j|Four Fingers}} and {{j|Smeared Joker}} make it easier to play Flushes and trigger this Joker's multiplier.
+*Any Joker that adds multiplier based on played cards of certain suit, such as {{j|Gluttonous Joker}}.
+*{{j|Troubadour}} gives extra hand size, making it easier to find cards of the same suit.
+*Out of all the cards that give multipliers for specific hands, this shares the weakest bonus alongside {{j|The Duo}}.
+*This joker is part of a set that gives strong Mult boosts for playing specific hands, which are unlocked by winning a run without playing that hand. The others are {{j|The Duo}}, {{j|The Trio}}, {{j|The Family}} and {{j|The Order}}.
+
+Anti-synergies:
+
+
+Joker: Blue Joker
+Synergies:
+
+
+Anti-synergies:
+*Despite being similarly named to the {{J|Green Joker}}, the art for the Blue Joker is completely original rather than being a recolor of the original {{J|Joker}}.
+
+Joker: Chicot
+Synergies:
+
+
+Anti-synergies:
+* '''The Wall''': score is now reduced (size of the small blind)
+* '''The Water''': doubles discards
+* '''The Manacle''': +1 hand size
+* '''The Needle''': gain hands
+* '''Violet Vessel''': score is now reduced even further (2/3 of the small blind)
+*[[Wikipedia:Chicot|Chicot]] (c. 1540–1591), real name Jean-Antoine d'Anglerais, was the jester of King Henry III of France, and later Henry IV. He was sharp-tongued, very cunning, and spoke with the king without formalities. '''Chicot''' disabling Boss Blinds in the game may be a reference to this.
+*This joker is animated, with Chicot hovering just above the red card face.
+*The other legendary Jokers are {{J|Canio}}, {{J|Perkeo}}, {{J|Triboulet}} and {{J|Yorick}}.
+
+Joker: Burnt Joker
+Synergies:
+*{{J|Blueprint}} or {{J|Brainstorm}} - Synergizes incredibly well, as after the desired hand is discarded it can be moved to copy a different Joker before a hand is played.
+*Jokers that make a particular hand easier to produce, such as {{J|Four Fingers}}, {{J|Shortcut}}, and {{J|Smeared Joker}}, can make it easier to discard their related hands, especially if you then want to be able to play the same hand immediately afterwards; Four Fingers and Shortcut also allow you to hit the relevant hand when discarding fewer cards, for situations when there are cards in your hand you want to keep.
+
+Anti-synergies:
+*{{J|Space Joker}} is similar, but it may provide an upgrade for playing hands instead of discarding them.
+*Rarity
+**{{hl|green|Uncommon}} -> {{hl|red|Rare}}
+*Price
+**{{hl|yellow|$6}} -> {{hl|yellow|$8}}
+
+Joker: Blueprint
+Synergies:
+*When stacked with {{J|Brainstorm}} or another {{J|Blueprint}}, each will add one more copy of the copied effect.
+**When combining Blueprint with Brainstorm, Blueprint can be placed to the left of Brainstorm or to the left of the leftmost Joker (to be copied), depending on the desired order of Joker activation.
+*As a rule of thumb, copying a Joker with {{hl|red|X Mult}} or '''retrigger''' is ''usually'' better than copying {{hl|blue|+Chips}} or {{hl|red|+Mult}}. The optimal placement for maximum score can be difficult to determine, so consider all possible options.
+*Copying a Joker that earns {{hl|yellow|$money}} or '''creates cards''' (especially Tarot) is a great option when boosting score is not necessary.
+*A few Jokers have both "trigger" effects that Blueprint can copy and "passive" ones that it cannot. {{J|Stuntman}}, for example, gives +250 Chips, a "trigger" effect, and -2 Hand Size, a "passive" effect. Therefore, Blueprint copies the +250 Chips, but not the -2 Hand Size
+*Moving Blueprint can often maximize its potential by always copying the most important Joker for the next action you take.
+**For example, one round could involve copying {{J|Perkeo}} before exiting the shop, {{J|Cartomancer}} before starting the Blind, {{J|Burnt Joker}} before the first discard, {{J|Business Card}} before playing face cards, and {{J|Acrobat}} before playing the final hand.
+*When copying chance-based Jokers like {{J|Space Joker}}, the chance is rolled independently for each copy of that joker. This means if one Joker triggers, the copies aren't guaranteed to trigger at the same time.
+*The card art depicts a deliberate and detailed technical drawing. This is in contrast with the rough 'back of the napkin' sketching of {{J|Brainstorm}}.
+*The Joker in the art is looking to its right, at the Joker it is copying.
+*Once a Poker hand is played, Blueprint will continue copying the last Joker to its right, even if it's moved around afterward. This can be exploited by first playing the winning hand, then moving Blueprint to copy Mime, while scoring is calculated. Once the hand finished scoring, Blueprint will immediately copy Mime, providing double the bonus from Blue Seals and Gold Cards without having to sacrifice scoring potential. The same technique can be applied to Brainstorm as well. This technique doesn't work with any other jokers besides Mime, however.
+
+Anti-synergies:
+
+
+Joker: Dusk
+Synergies:
+
+
+Anti-synergies:
+
+
+Joker: The Idol
+Synergies:
+* Jokers that retrigger scored cards, such as {{J|Dusk}} or {{J|Hack}}, will compound the multiplication immensely.
+* Jokers that help manipulate the deck to fewer types of cards will make the randomly chosen card more likely to be desirable. {{J|DNA}} or {{J|Trading Card}} are the most important jokers for accomplishing this.
+* [[Tarot Cards|{{hl|purple|The Hanged Man}}]] and [[Tarot Cards|{{hl|purple|Death}}]] can be used to remove undesired card(s), making The Idol more consistent. Thus, {{J|Vagabond}} can be one of the best ways to enable The Idol.
+* [[Tarot Cards|{{hl|purple|The Tower}}]] can also be used to make The Idol more consistent, as The Idol cannot choose a [[Card Modifiers#Enhancements|Stone card]] to buff.
+*If you have more of one card type than another, it will be proportionally likely for that card type to be chosen.
+*While it can be underwhelming early game, it excels late game when the proper deck manipulation can be put into place. However, it is one of the more difficult Jokers to extract the most use out of.
+*The best cards to build around are those that can be retriggered more times by other Jokers. 2's, 3's, 4's, and 5's can be retriggered by {{J|Hack}}, while face cards (J, Q, K) can be retriggered by {{J|Sock and Buskin}}.
+*The card art depicts a colorful wood carving of a head, also known as a tiki '''idol'''.
+*If the deck has no card with any rank and suit (i.e full Stone Cards), The Idol will default to x2 Mult per played Ace of Spades.
+
+Anti-synergies:
+
+
+Joker: Joker
+Synergies:
+
+
+Anti-synergies:
+
+
+Joker: Greedy Joker
+Synergies:
+* Retrigger Jokers work best with this one. To maximize the Additive Mult boost to {{Mult|+30}} on a Flush-type hand, priority should be given to those that can very easily affect the entire hand of played cards, such as {{j|Hack}} (for cards with 5 or lower rank) or {{j|Sock and Buskin}} (for face cards).
+* Tarot Card generation is also a must if Greedy Joker is to be at the core of the build. {{j|Cartomancer}} is an obvious choice, but building into {{ph|Straight Flush}}es can also lend well to including {{j|Superposition}}.
+* {{j|Crafty Joker}} and {{j|Droll Joker}}: Providing {{Chips|+80}} and {{Mult|+10}}, respectively, when scoring a Flush-type hand, these can be beneficial in tandem with this Joker, primarily in the early game. In Crafty Joker's case, since Chip sources are overall rarer than Additive Mult, keeping it later is more practical.
+* {{j|Castle}}: A Chip Joker that scales by {{Chips|+3}} for every discarded card of a random suit determined by deck distribution. It can easily cover the other side of the equation once the deck has been manipulated enough to mostly include Diamonds, by just tossing away lower-ranked or otherwise less desirable cards of the suit.
+* {{j|Rough Gem}}: Forming the most natural synergy with this Joker, it will make each Diamonds Flush you play also give {{hl|yellow|$5}}, which can help compensate for the lack of raw damage Diamond Decks can output by increasing purchasing power, thereby granting indirect access to higher strength.
+* {{j|Smeared Joker}}: By making {{Suit|Hearts}} also count as {{Suit|Diamonds}}, and vice versa, this not only makes deck-fixing and finding Flushes twice as easy, but opens up access to more cards, like more consistent hits of {{j|Ancient Joker}}, as well as {{j|Bloodstone}}.
+* {{j|Ancient Joker}} and {{j|The Idol}}: These are more difficult to include thanks to their inherent randomness, but with enough Wild Cards (in the former's case) or duplication (for the latter), they could easily be activated every few hands later on in the run.
+* {{j|The Tribe}}: A natural include in a Flush build to give an extra {{Mult|X2}} to the most practical of scored hands. However, if it is possible to deck fix into a {{ph|Flush Five}} build, {{j|The Family}} should be prioritized.
+* '''The Window''' is a debilitating encounter, since it makes it so that all Diamond cards go unscored and thus activate no Joker or card effects. A Diamonds Flush deck is only a safe consideration early on if this Boss Blind has already came and went; in any other case, it is very likely to end the run.
+* '''The Ox''' can also be crippling later on in the run, especially when playing predominantly regular Flushes, by killing the player's economy on the spot. While it is possible to mitigate the loss with other money generation, or even avoided entirely by veering into another hand like a Flush House, this is not always possible. In the event it is not, seriously consider whether the money is best spent right before to lessen the need for it for the rest of the run.
+* The '''Cerulean Bell''' can prove to be a mild or major annoyance; if its effect forcibly selects a non-Diamond card and prevents scoring a Flush as a result, it must either be discarded, or played in a 'burner hand' as a makeshift discard, which can both lessen consistency and overall odds of winning.
+* Greed is one of the traditional [[Wikipedia:Seven deadly sins|seven deadly sins]]. The four Common Jokers that give Additive Mult for each suit are based on these. The other 'sinful Jokers' (as named by LocalThunk in the ''Balatro'' patch notes) are {{j|Lusty Joker}}, {{j|Wrathful Joker}} and {{j|Gluttonous Joker}}.
+** Greedy Joker's Uncommon counterpart, {{J|Rough Gem}}, generates money, which plays into the theme of greed.
+*Effect
+**{{mult|+4}} -> {{mult|+3}}
+
+Anti-synergies:
+* {{ph|Flush}}
+* {{ph|Straight Flush}} (and {{ph|Royal Flush}})
+* {{ph|Flush House}}
+* {{ph|Flush Five}}
+
+Joker: Steel Joker
+Synergies:
+*{{j|DNA}} is very helpful, as it can be used to duplicate steel cards each round.
+*{{j|Greedy Joker}}, {{j|Lusty Joker}}, {{j|Wrathful Joker}} and {{j|Gluttonous Joker}} provide {{Mult|+3}} when playing the corresponding suit.
+*{{j|Mime}} retriggers all "in hand" cards, which should include many steel cards.
+*{{j|Fibonacci}} causes Aces, 2, 3, 5, 8 to give {{Mult|+8}} when scored.
+*{{j|Even Steven}} gives {{Mult|+4}} when playing even ranked cards.
+*{{j|Scholar}} makes aces give {{Mult|+4}} when scored.
+*{{j|Walkie Talkie}} causes 4s and 10s to give {{Mult|+4}} when scored.
+*{{j|Smiley Face}} makes face cards give {{Mult|+5}} when scored.
+*{{j|Onyx Agate}} makes all Club cards give {{Mult|+7}} when scored.
+*{{j|Burnt Joker}} will upgrade the level of the first discarded Poker hand. This allows you to easily level up a hand without buying planet cards, increasing the base multiplier. Especially useful if you're going for a "high card" build.
+*The Chariot (Tarot Card) enhances one card into a steel card.
+*Death (Tarot Card) can be used to duplicate a steel card.
+*Familiar (Spectral Card) has a chance to create steel cards.
+*Grim (Spectral Card) has a chance to create steel cards.
+*Incantation (Spectral Card) has a chance to create steel cards.
+*Cryptid (Spectral Card) can be used to create copies of a steel card.
+*All Playing Card Packs have a chance to contain steel cards.
+*Deja Vu (Spectral Card) can add a red seal to a steel card. This will retrigger the card, adding another {{Mult|x1.5}} to the multiplier.
+*Steel Joker's image is identical to the base {{J|Joker}}, but with a steel card skin applied. Unlike playing cards, which retain their color when steeled, Steel Joker is entirely grayscale.
+*This Joker is part of a series, along with {{J|Stone Joker}}, {{J|Glass Joker}}, {{J|Golden Ticket}} and {{J|Lucky Cat}}, where the Joker seems to only appear once players have at least one card with the relevant enhancement in their deck.
+*Effect
+**{{Mult|X0.25}} per Steel card in full deck -> {{Mult|X0.2}} per Steel card in full deck
+
+Anti-synergies:
+
+
+Joker: Matador
+Synergies:
+* {{J|Burglar}} is the best Joker to combine Matador with, as with ideal draws you can obtain an additional $24 from each Boss Blind.
+* {{J|To the Moon}} can benefit from the mid-round money earning, as this money will count toward interest.
+* Jokers such as {{J|Bull}} or {{J|Bootstraps}} that directly scale off of money enjoy the extra cash that Matador brings in.
+* Jokers such as {{J|Flash Card}} or {{J|Red Card}} that scale off of actions that require money to be spent can also benefit from the extra spendable cash.
+
+Anti-synergies:
+* As with many mid-round economy Jokers, Seed Money and Money Tree are very helpful, as they allow more interest to be gained off of that money.
+* Director's Cut and Retcon are useful vouchers to reroll into a Boss Blind that triggers Matador, however, spending too much money on rerolling will negate the benefits given by Matador.
+*Matadors, or [[Wikipedia:Bullfighter|bullfighters]], are the main performers with the bull in bullfighting. The lead matador is dressed in gold, like our Joker, with other matadors dressed in silver. Matadors often wave a red cloth to attract or anger the bull. Similarly, this Joker rewards the player for provoking the Boss Blind's ability.
+*Cards that are debuffed due to the Double or Nothing [[Challenge Decks|Challenge Deck]] also trigger the Matador, even during Small and Big Blinds.
+
+Joker: To the Moon
+Synergies:
+
+
+Anti-synergies:
+
+
+Joker: Seeing Double
+Synergies:
+*{{J|Smeared Joker}} means {{Suit|Clubs}} can also count as {{Suit|Spades}} and vice-versa, though as with Wild Cards an individual card can only count as one or the other. Two of either will trigger the bonus, as will one of either plus a {{Suit|Heart}} or {{Suit|Diamond}}.
+*{{J|Splash}} allows triggering the bonus by adding an extra card that would otherwise be ineligible for scoring; e.g. ♣️A ♣️A ♣️A ♣️A ♥️4.
+*Any hand that can trigger {{J|Flower Pot}} will also trigger Seeing Double, providing a total of 6x Mult.
+*The name of this Joker is possibly based on a joke from [[Wikipedia:The Simpsons|''The Simpsons'']] episode s6e15, [[Wikipedia:Homie the Clown|"Homie the Clown"]], when Homer goes to Clown College. Homer becomes a Krusty the Clown impersonator, and when standing together a gangster says "I'm seeing double here! Four Krustys!!"
+
+Anti-synergies:
+
+
+Joker: Shortcut
+Synergies:
+*{{j|Four Fingers}} is a great combination with Shortcut, as this allows for a 4-length Straight with gaps, and Straight Flushes become even easier to make since the Straight and Flush don't need to be on the ''same'' 4 cards. (e.g. Q♠️ J♠️ 9♥️ 7♠️ 3♠️ is a valid Straight Flush with both Jokers in effect)
+*{{j|Crazy Joker}} and {{j|The Order}} both give Mult when a Straight is played.
+*{{j|Devious Joker}} and {{j|Runner}} both give Chips when a Straight is played.
+*{{j|Superposition}} and {{j|Séance}} both create [[Consumables]] when a Straight is played.
+*Shortcut's artwork subtly includes a joker's face, the hanging wires being the smile, and the curved hat in the clouds.
+
+Anti-synergies:
+
+
+Joker: Triboulet
+Synergies:
+* Any Joker that triggers on playing a face card naturally synergizes with Triboulet. An especially powerful combo lies with {{J|Sock and Buskin}}, which will retrigger Triboulet's multiplicative effect; A normal hand with five scoring Kings and Queens will see Triboulet give an effective {{Mult|x32}}, while with Sock and Buskin this balloons to {{Mult|x1024}}.
+*Little biographical information is available about the jester Triboulet. It is known that in France, there have been at least three jesters referred to as "[[Wikipedia:Triboulet|Triboulet]]", with the first one serving René of Anjou and also being a playwright, the second serving Louis XII, and the third one serving Francis I (and possibly also Louis XII). The second Triboulet died during Louis XII's reign, and he and the Third Triboulet later became confused as one person.
+*The effect of this joker is likely in reference to a story in which a court jester slapped the King on the buttocks.  As the tale goes, the King told the jester he would be allowed to live if he could give an answer more offensive than the act itself.  In response, the jester said, “I’m sorry, your majesty-  I mistook you for the Queen!”  This would explain why the effect of the joker specifically applies to only Kings and Queens.  Although the historical accuracy of this story and quote is questionable, it is commonly attributed to Triboulet.
+*This joker is animated, with Triboulet hovering just above the blue card face.
+*The other legendary Jokers are {{J|Canio}}, {{J|Chicot}}, {{J|Perkeo}}, and {{J|Yorick}}.
+
+Anti-synergies:
+
+
+Joker: Clever Joker
+Synergies:
+*{{j|Spare Trousers}} gains Mult when playing a Two Pair.
+*{{j|Square Joker}} gains Chips any time a played hand consists of exactly 4 cards. Since a standard Two Pair is exactly four cards, the player can strengthen Square Joker while getting Chips from Clever Joker.
+*{{j|Jolly Joker}} and {{j|Mad Joker}} give Mult on a Pair and Two Pair respectively.
+*{{j|Sly Joker}} gives Chips if the played hand contains a Pair. 
+* This joker is part of a series which provide a Chips boost for a specific hand. The others are {{J|Sly Joker}}, {{J|Wily Joker}}, {{J|Devious Joker}} and {{J|Crafty Joker}}.
+*Effect
+**{{Chips|+150}} if played hand contains Four of a Kind -> {{Chips|+80}} if played hand contains a Two Pair
+*Artwork
+**The cards the Joker holds were changed to match the new Two Pair effect
+
+Anti-synergies:
+
+
+Joker: Fibonacci
+Synergies:
+
+
+Anti-synergies:
+
+
+Joker: Troubadour
+Synergies:
+*{{J|Mime}}: More cards in hand means more cards for Mime to retrigger.
+*Troubadours cannot reduce hand per round below 1. So when it's equipped against {{d|Golden Needle}} (Challenge) or [[Blinds|The Needle]] blind, it effectively provides +2 hand size without penalty, as players always start with 1 hand per round.
+
+Anti-synergies:
+
+
+Joker: Sly Joker
+Synergies:
+*{{J|Jolly Joker}} and {{J|The Duo}} pair well with this, as both will trigger on the same activation as this joker.
+*This joker is part of a series that provides a Chips boost for a specific hand. The others are {{J|Wily Joker}}, {{J|Clever Joker}}, {{J|Devious Joker}}, and {{J|Crafty Joker}}.
+
+Anti-synergies:
+
+
+Joker: Swashbuckler
+Synergies:
+*{{J|Gift Card}}: This Joker adds to the sell value for all other jokers at once, effectively scaling Swashbuckler over time.
+*{{J|Egg}}: Egg increases its sell value by $3 per blind, effectively scaling Swashbuckler over time.
+*[[Wikipedia:Swashbuckler|Swashbucklers]] in fiction tend to be heroic types skilled in swordplay, acrobatics and charm, ready to rescue princesses and with a strong sense of honour. Famous swashbucklers include [[wp:Robin Hood|Robin Hood]], [[wp:The Three Musketeers|The Three Musketeers]] and the [[wp:The Princess Bride (film)|Pricess Bride]]'s Dread Pirate Roberts.
+*Effect
+**Adds sell value of Jokers to the left to {{hl|red|Mult}} -> adds sell value of all other Jokers to {{hl|red|Mult}}
+
+Anti-synergies:
+
+
+Joker: Constellation
+Synergies:
+
+
+Anti-synergies:
+
+
+Joker: Egg
+Synergies:
+*{{J|Swashbuckler}} can combo with Egg to gain mult each round, but will lose it if Egg is sold. While Debuffed, Egg will still provide mult for Swashbuckler.
+*{{J|Ceremonial Dagger}} can be used to sacrifice Egg for a permanent mult bonus.
+*{{J|Blueprint}} and {{J|Brainstorm}} are not compatible with Egg, and will not copy its ability to gain sell value.
+*[[Tarot Cards|Temperance]] offers a way to gain additional money from Egg.
+*This Joker is likely a reference to the [[Wikipedia:Clowns Gallery-Museum|Clowns International Egg Registry]], where clowns can register their unique face makeup by painting it on an egg.
+*It may also be referencing the term "nest egg", which is a reserve or investment of money for the future.
+*[[LocalThunk|LocalThunk]] has said Egg is a reference to [https://nlss-jargon-etymologies.fandom.com/wiki/Northernlion Northernlion], a Twitch streamer and YouTuber who plays Balatro.<ref>Source: [https://discord.com/channels/1116389027176787968/1116389027675906110/1159875233671557211 LocalThunk's Discord message] in the Balatro Discord.</ref>
+
+Anti-synergies:
+
+
+Joker: Ramen
+Synergies:
+* Any Common Joker that can provide consistent shots of {{Mult|+}} will benefit a build with this Joker greatly, allowing rounds to be solved faster, and as a result, more money to be conserved for longer-term options. Some of the better options include {{j|Abstract Joker}} (which is viable even in the later Antes), {{j|Popcorn}} (itself a temporary addition), and {{j|Half Joker}}, {{j|Scholar}}, and {{j|Walkie Talkie}} (which are all Jokers that can easily be built around while still being strong).
+* {{j|Banner}}: Providing {{Chips|+30}} to all hands played for each unused discard, these two can cover both sides of the equation with almost any hand in the early game. The -1 discard malus inflicted by Blue Stake and higher makes this a less viable combo in the later difficulties, but still worth considering.
+* {{j|Blue Joker}}: Providing {{Chips|+2}} to all hands played for each card remaining in Deck, this essentially beats out {{j|Banner}} on the higher Stakes, and can go even higher by adding cards to the Deck, albeit this is ill-advised in combination with this Joker due to an absolute need for consistency.
+* {{j|Delayed Gratification}}: This unorthodox economy Joker richly rewards the user with {{hl|yellow|$2}} for each discard the player has at the end of the round, as long as no discards were used during the round. This can much more quickly help the player access more build stability when combined with the unique property of this Joker. Much like {{j|Banner}}, however, it is far less viable on Blue Stake or higher, as it essentially becomes a {{j|Golden Joker}} with an inconvenient activation condition.
+* {{j|Green Joker}}: A steady-scaling Additive Mult Joker that gains {{Mult|+1}} for every hand played, but loses {{Mult|-1}} for every discard action (including '''The Hook''' Boss Blind's effect, which effectively stalls its scaling for one round). This is the only other anti-discard Joker that ignores the amount of remaining discards, making it far more effective on all Stakes. Adding onto this, its Additive Mult pairs extremely well with the Multiplicative Mult this Joker gives, allowing them to comprise a respectable amount of your score alone, even into the late-game!
+* {{j|Astronomer}}: One of the few effect Jokers that Ramen has synergy with, making Planet Cards and [[Booster Packs|Celestial Packs]] in [[The Shop]] free. In doing so, it becomes easier to lean on poker hand level scaling, in the event that scoring Jokers prove too inaccessible due to bad luck.
+* {{j|Space Joker}}: With each played hand having a {{hl|green|1 in 4}} chance to have its level upgraded before scoring, it can serve as a source of long-term scaling, especially while playing the large number of hands per round this Joker encourages.
+
+Anti-synergies:
+* {{d|Black}}: Even worse than the above is this Deck, which suffers from -1 hand per round. This forces more dependency on discards, while disallowing liberal use of 'throwaway' hands. Prioritize looking for other Multiplicative Mult Jokers.
+* {{j|Drunkard}} and {{j|Merry Andy}}: The extra discards these two provide are absolutely useless in a Ramen build, except when considering the potential presence of {{j|Banner}} or {{j|Delayed Gratification}}. Using 3 Joker slots for such a combination can badly dampen scoring, so these should be avoided regardless of how well they can mesh with the other two synergistic Jokers.
+* {{j|Faceless Joker}}, {{j|Mail-In Rebate}}, and {{j|Trading Card}}: These Jokers will never give their payout unless you start debuffing this one. Money does lead to better scoring, but the risk of depreciating Mult even a little is huge.
+* {{j|Troubadour}}: While its hand size bonus provides opportunity to more consistently find hands with higher base Mult, it has a debilitating -1 hand per round penalty, meaning it forces more dependency on discards that would weaken this Joker.
+* {{j|Burnt Joker}}: Though a source of much-needed level scaling, it does this through discarding the poker hand in question, which actively worsens this Joker.
+* {{j|Hit the Road}} and {{j|Yorick}}: The power of these cards both depend on discarding large quantities of cards, meaning they will both greedily slurp your Ramen right up. The latter of the two is usually worth keeping over this Joker, however, as it has the potential to reach very high {{Mult|X}} values if acquired early.
+* '''Grabber''' and its upgraded counterpart '''Nacho Tong''' provide an extra hand with each acquisition, giving more opportunities to find higher-scoring hands to play.
+* '''Telescope''' guarantees that the Planet Card for the most played poker hand will always appear in Celestial Packs. Due to the very low base Mult of High Card, Pair, and Two Pair, this is a must-grab in any build keeping Ramen for the long-term.
+* For similar reasons, '''Planet Merchant''' and '''Tarot Merchant''', as well as their upgraded counterparts '''Planet Tycoon''' and '''Tarot Tycoon''', are also possible considerations, albeit not as strongly recommended since they take notable Shop space away from Jokers, which should be the main source of scoring anyway (unless using the {{d|Painted}}).
+* '''Hieroglyph''' should be avoided while using this Joker, as its -1 hand per round penalty increases dependence on discards.
+*This Joker is part of the group of "Consumable" Jokers that count down in some way with usage. The other Jokers in this group are {{j|Ice Cream}}, {{j|Popcorn}}, {{j|Seltzer}} and {{j|Turtle Bean}}.
+
+Joker: Blackboard
+Synergies:
+*{{j|Shortcut}} and {{j|Four Fingers}} make it easier to play a straight, making it possible to use up all of the Diamond and Heart cards in hand.
+*{{j|Stuntman}} greatly reduces hand size, significantly increasing the player's chances of their hand containing no Diamond and Heart cards.
+*This Joker doesn't have a "Red" counterpart (x3 Mult when remaining cards are Heart and Diamond), likely because there is not good alternate image to Blackboard to work with (too bad there is no such thing as a Whiteboard).<!-- nice sarcasm ;) -->
+*If there's no card in hand after playing a Poker Hand, Blackboard will still trigger.
+*The art is reminiscent of [[Wikipedia:Blackboard|blackboards]] (sometimes called chalkboards) found in schools and other learning environments, including the piece of chalk used to draw and write on it. Despite the name, they are not always made of black material, and can often be found in grey, green or dark blue. In many situations, they have been replaced with [[Wikipedia:Whiteboards|whiteboards]] (also called dry-erase boards).
+
+Anti-synergies:
+
+
+Joker: Gluttonous Joker
+Synergies:
+* As Gluttonous Joker's effect triggers when a Club card is ''scored'', retrigger Jokers that allow cards to be scored multiple times are very good to combo with Gluttonous.
+* Flush Jokers, like {{j|Crafty Joker}} and {{j|Droll Joker}}, work well with Gluttonous Joker, as you want to be playing flushes to maximize its effect anyways.
+* {{j|Onyx Agate}} also triggers off of Club cards scored, forming a natural synergy with Gluttonous Joker. As Onyx Agate is a strict upgrade to Gluttonous, it can be used as a replacement, but it also can be used in builds that have high X Mult from hands from Jokers like, sometimes, {{j|Ancient Joker}}, or {{j|The Idol}}. This combo also benefits from a strong Chip Joker, ideally one that also benefits from Flushes. {{j|Castle}} is the best example of this kind of Joker.
+* Because Gluttonous Joker's Mult is applied during the scoring of your played cards, Jokers that focus on creating Tarot cards are helpful to Gluttonous Joker's viability. They can both allow more Clubs to be created, and create certain Enhancements (particularly Glass and Steel) that work well with high hand-scoring Mult builds.
+* {{j|Smeared Joker}} effectively turns all Spade cards into Clubs for the purpose of Gluttonous Joker's effect. 
+* Gluttony is one of the traditional [[Wikipedia:Seven deadly sins|seven deadly sins]]. The four basic Jokers that provide +3 Mults for each suit are each based on these. The other Sinful Jokers are {{j|Greedy Joker}}, {{j|Lusty Joker}} and {{j|Wrathful Joker}}.
+*Effect
+**{{mult|+4}} -> {{mult|+3}}
+
+Anti-synergies:
+
+
+Joker: DNA
+Synergies:
+*{{J|Hologram}} is DNA's absolute best partner. For every card DNA duplicates, Hologram increases {{Mult|x0.25}}. That means DNA can increase Hologram by {{Mult|x0.75}} per ante, on top of whatever other cards can be added to your deck.
+*{{J|Blue Joker}} is another good partner, that adds Chips based on the number of cards in the deck.
+*{{J|Blueprint}} and {{J|Brainstorm}} can be combined with DNA to duplicate a card twice (or thrice if all three Jokers are used together), allowing you to quickly fill your deck with high value cards.
+*{{J|Steel Joker}} - Through duplication of Steel Cards.
+*{{J|Vampire}} - Through duplication of cards with enhanced effects, then playing them to power up Vampire.
+*{{J|Baron}} - Through duplication of Kings
+*{{J|Stone Joker}} - Through duplication of Stone Cards.
+*{{J|Shoot the Moon}} - Through duplication of Queens.
+*{{J|Driver's License}} - Through duplication of cards with enhanced effects.
+*{{J|Glass Joker}} - Through duplication of glass cards, then playing them to break them.
+
+Anti-synergies:
+*DNA is one of only three Jokers that add cards to your deck. The others are {{J|Marble Joker}} and {{J|Certificate}}.
+*[[Wikipedia:DNA|DNA]], short for Deoxyribonucleic acid, is one of the "building blocks" of life, involved in the growth and development of all known organisms and many viruses. The card image is a typical representation of a double-helix, a section of a DNA strand.
+
+Joker: Golden Ticket
+Synergies:
+*{{j|Midas Mask}} turns all Face cards into Gold cards when scored.
+*{{j|Pareidolia}} all cards are considered Face cards, paired with Midas Mark means all cards can be converted into Gold cards.
+*{{j|Sock and Buskin}} retriggers all played Face cards, allowing double income.
+
+Anti-synergies:
+*The numbers 16180339 used in the artwork are the first digits of the [[Wikipedia:Golden_ratio|Golden ratio]].
+**Ironically, {{J|Fibonacci}}, which is based on a sequence [https://en.wikipedia.org/wiki/Golden_ratio#Relationship_to_Fibonacci_and_Lucas_numbers closely related to the Golden ratio], has no synergy with this Joker.<!--This one's a real stretch, feel free to remove-->
+*This Joker is part of a series, along with {{J|Stone Joker}}, {{J|Steel Joker}}, {{J|Glass Joker}} and {{J|Lucky Cat}}, where the Joker seems to only appear once players have at least one card with the relevant enhancement in their deck.
+*Effect
+**Pays out {{hl|yellow|$3}} per Gold card played -> pays out {{hl|yellow|$4}} per gold card played
+
+Joker: Diet Cola
+Synergies:
+*The first diet cola drink produced by the Coca-Cola Company was called [[Wikipedia:Tab (drink)|TaB]]. Which is ''almost'' tag...
+*This card's effect may be referencing the fact that Tags superficially resemble bottlecaps.
+
+Anti-synergies:
+
+
+Joker: Vagabond
+Synergies:
+*The card art for this Joker was made by Pixel Artist, Animator, and YouTuber [https://www.youtube.com/c/LumpyTouch Lumpy Touch]. It is the only piece of art in the game credited to another artist as of the latest update.
+*Vagabonds are wandering people who have no set home or job, often associated with being poor. This fits the design of the Joker, being a poor-looking man with worn clothes and the effect based on having low or no money.
+*Effect
+**Applies when you have {{hl|yellow|$3}} or less -> applies when you have {{hl|yellow|$4}} or less
+*Rarity
+**{{hl|green|Uncommon}} -> {{hl|red|Rare}}
+*Price
+**{{hl|yellow|$6}} -> {{hl|yellow|$8}}
+*Effect
+**Applies when you have {{hl|yellow|$4}} or less -> applies when you have {{hl|yellow|$3}} or less
+
+Anti-synergies:
+
+
+Joker: Vampire
+Synergies:
+*[[Card Modifiers#Seals|Seals]] and [[Card Modifiers#Editions|Editions]], which are both different from Enhancements, are not removed by Vampire when played.
+*The Vampire is the star of the [[Challenge Decks|Challenge Deck]] "Bram Poker".
+*Effect
+**Gains {{mult|X0.2}} per enchantment removed -> gains {{mult|X0.1}} per enchantment removed
+**Removes enchantments from {{hl|orange|played}} cards -> only removes enhancement from {{hl|orange|scoring}} cards
+
+Anti-synergies:
+
+
+Joker: Acrobat
+Synergies:
+*'''The Needle''': Since this boss blind reduce number of hands to 1, Acrobat is automatically activated.
+* The acrobats in the artwork could be performing using [[Wikipedia:Aerial silk|aerial silks]] or [[Wikipedia:Aerial straps|aerial straps]], or perhaps a variation of [[Wikipedia:Corde lisse|corde lisse]]. The lower acrobat seems to be holding an [[Wikipedia:Aerial hoop|aerial hoop]]. Quite often performers doing these types of acts will have a 'big finish' trick to finish their performance, represented by the {{Mult|x3}} on the last hand.
+
+Anti-synergies:
+
+
+Joker: Credit Card
+Synergies:
+*{{J|Vagabond}} allows you to get Tarot cards every time you play a hand with $4 or less. Staying in debt with the Credit Card assures you will create many Tarot cards.
+*Multiple copies of {{J|Credit Card}} allow you to have $20 of debt for every copy you have, if that's something you would want.
+*'''The Ox:''' Playing your most played hand this run sets money to $0, which can be used to wipe out Credit Card's debt.
+*'''The Tooth:''' Be careful when going into debt with this boss blind, as you may lose a lot of money and go deeply below -$20.
+*The [[Spectral Cards|Wraith]] Spectral card sets your money to $0 after use, meaning you gain money if your balance is below $0.
+*[[Tarot Cards|The Hermit]] Tarot card (which normally doubles your money) gives no money if you have $0 or less, but won't double your debt.
+*During the second demo, Credit Card cost $2 to buy. This was changed to $1 upon release, making Credit Card the cheapest consumable without using any Vouchers. It is also unique in that it can be bought and sold for the same price, meaning players can pick it up and later sell it and get a full refund.
+*The card number on the card is entirely fictional, and does not correspond with any real-world providers. However, it can be broken down into:
+**[[Wikipedia:867-5309|867-5309]], the phone number featured in the popular song of the same name by Johnny Tutone.
+**[[Wikipedia:420 (cannabis culture)|420]] and [https://tvtropes.org/pmwiki/pmwiki.php/Main/LOL69 69], two numbers commonly used in memes and Internet-based humor.
+**1234, simply the first four numerals, often used in dummy credit card numbers.
+*Credit Card is one of the few non-effect Jokers to have a consistent, unconditional, unchanging effect. The others are {{J|Joker}} and {{J|Golden Joker}}.
+
+Anti-synergies:
+
+
+Joker: Business Card
+Synergies:
+*Synergies: 
+**{{J|Pareidolia}} enables Business Card to pay out on any played card.
+**{{J|Oops! All 6s}} guarantees payout from Business Card.
+**Retrigger jokers that affect face cards, such as {{J|Sock and Buskin}} or {{J|Seltzer}}, allow Business Card to pay out more than once.
+**{{J|Splash}} allows Business Card to affect all face cards played by making them all score.
+**{{J|Midas Mask}}'s ability turns all face cards gold, resulting in more income.
+**Other jokers that increase the scoring of played face cards (e.g. {{J|Scary Face}} for {{chips|+}}, {{J|Smiley Face}} for {{mult|+}}, and {{J|Triboulet}} for {{mult|X}}) provide additional benefit when face cards are played.
+**{{J|Reserved Parking}} provides income on unplayed face cards, so having both this Joker and Business Card in a face card focused deck can provide a steady stream of money. 
+*Anti-Synergies:
+**{{J|Ride the Bus}} requires face cards to not be played in order to grow its Mult bonus.
+**{{J|Canio}}'s ability activates only upon destroying face cards, resulting in fewer cards able to trigger Business Card.
+*Business cards often show the name, contact details, and other information of the person handing them out. They may even include imagery, watermarks or QR codes. In some industries, the quality and style of an individual's business card directly impact the perception of the said person among colleagues and peers, as can be seen in this (slightly exaggerated) [https://www.youtube.com/watch?v=T4UQf7zb3Pk scene from the film ''American Psycho''].
+
+Anti-synergies:
+
+
+Joker: The Order
+Synergies:
+*This joker is part of a set that gives {{Mult|X}} boosts for playing specific hands, which are all unlocked by winning a run without playing that hand. The others are {{J|The Duo}}, {{J|The Trio}}, {{J|The Family}} and {{J|The Tribe}}.
+
+Anti-synergies:
+
+
+Joker: Popcorn
+Synergies:
+*During the second demo, Popcorn only decreases -2 Mult each blind, allowing it to last 10 Blinds before it's destroyed. Later patch <!-- 0.9.3L --> changed this to -4 Mult after each blind, effectively cutting its usage by half.
+**Because Popcorn lasts exactly 5 blind, Perishable sticker has no effect on it, as it'll get eaten by the end of round 5 if not sold by then.
+*Compared to {{j|Ice Cream}}, Popcorn runs out a lot faster, but it's more useful as the +Mult provided can get players out of a lot of tight situations.
+*The text "Eaten!" will flash under Popcorn when it disappears.
+
+Anti-synergies:
+
+
+Joker: Cloud 9
+Synergies:
+* [[Tarot Cards|Tarot Card]] generation is extremely important if the maximization of Cloud 9's value is the goal. {{j|Cartomancer}} is the most effective one, creating a Tarot Card whenever a Blind is selected (a Cloud 9 build would not want to skip in the first place in order to gain the most money from the end-of-round payouts). If it can be found, the Legendary Joker {{j|Perkeo}} is a must-keep, allowing infinite duplication of key Deck-fixing consumables.
+* {{j|Fortune Teller}}: Providing a retroactively-scaling {{Mult|+1}} for every Tarot Card used in the current run, it can richly reward the player with strong scoring for building into this Joker's niche.
+* {{j|Odd Todd}}: With its extra shot of Chips whenever an odd-ranked card is scored, it can dish out up to an extremely high {{Chips|+155}} boost when five 9s are scored in the same hand (and even more with retrigger effects).
+* {{j|Bull}} and {{j|Bootstraps}}: Giving extra Chips and Additive Mult, respectively, as the player's held money grows, these are a good choice if high amounts of spending is not particularly valuable.
+* {{j|Hologram}}: A potential consideration if making use of [[Booster Packs|Standard Packs]] to buff the number of 9s, this gives an unconditional Multiplicative Mult boost that grows as more playing cards are added to the Deck.
+* {{j|Baseball Card}}: Giving an additional {{Mult|X1.5}} boost to all held Uncommon Jokers, it works particularly well with this Joker, especially when combined with the aforementioned ones (with most of them being Uncommons themselves).
+* {{j|DNA}}: The only direct synergy this Joker has with another. It can be used to duplicate tons of 9s to sharply increase the end-of-round payout. It also synergizes with the aforementioned {{j|Hologram}}.
+* {{j|The Trio}} and {{j|The Family}}: Cloud 9 already makes it more advisable to build into hands with repetitive ranks, which these cards reward richly with high Multiplicative Mult boosts.
+
+Anti-synergies:
+* {{ph|Three of a Kind}}
+* {{ph|Four of a Kind}}
+* {{ph|Five of a Kind}}
+* {{ph|Flush Five}}
+* {{j|Showman}}: This Joker can make it slightly harder to find good Deck-fixing cards in [[The Shop]], as well as Arcana and Spectral Packs, by allowing duplicates to appear, meaning that holding onto less valuable consumables will not prevent them from reappearing.
+* {{j|Throwback}}: Skipping Blinds is less than ideal for most Economy Jokers, to which Cloud 9 is no exception.
+* The '''Death''' and '''Strength''' Tarot Cards, and the '''Cryptid''' Spectral Card, can be used to quickly boost the number of 9s, thus increasing the value of Cloud 9.
+* '''Clearance Sale''' and its upgraded counterpart '''Liquidation''' are the best hits, as they allow easier ballooning of Cloud 9's value by making Booster Packs cheaper.
+* '''Magic Trick''' can be a nice consideration, allowing players to buy more 9s directly from The Shop.
+* '''Tarot Merchant''', its upgraded counterpart '''Tarot Tycoon''', and '''Omen Globe''' (the counterpart of '''Crystal Ball''') all make it easier to find Deck manipulation cards.
+* '''Observatory''' can be considered in tandem with certain [[Planet Cards]] like '''Venus''' and '''Mars''' if being down a scoring Joker is proving too cruel.
+* This is the only Economy Joker in the game without a true cap on its money generation - most of the others have a fixed amount (like {{j|Golden Joker}}), are limited by the number of hands/discards per round (like {{j|Faceless Joker}} and {{j|To Do List}}), or have a hard cap by some other means (like {{j|Satellite}} and {{j|To the Moon}}). As long as the player has a large number of 9s, Cloud 9 will continue to pay out {{hl|yellow|$1}} for each.
+* The name of this Joker is possibly a reference to the phrase '[[Wikipedia:Cloud Nine|on cloud 9]]', referring to being in a state of euphoria.
+*Price
+**{{hl|yellow|$6}} -> {{hl|yellow|$7}}
+
+Joker: Green Joker
+Synergies:
+*Chip Jokers help Green Joker form an important core that can bolster the strength of most, if not all hands, very reliably. {{j|Banner}} is the most obvious choice, giving {{Chips|+30}} for each unused discard in the round; in the same rarity, however, {{j|Blue Joker}} is more favorable at higher difficulties, as it is not affected by the -1 discard penalty of [[Stakes|Blue Stake]] and higher, and would not be having its power significantly dampened by discards. Other reliable options include {{j|Square Joker}} for consistent scaling, and {{j|Stuntman}} for an extraordinary boost at a negligible downside for builds Green Joker is oriented towards anyway.
+*Multiplicative Mult Jokers are key, not only to powering through the higher Stakes, but to amplifying this Joker's strengths, and many of them synergize very well with it. Some examples include:
+**{{j|Acrobat}}: With its {{Mult|X3}} boost triggering on the final hand of the round, it can be easier to use when playing large volumes of hands, as is optimal in this Joker's case. It can also lead to much more explosive plays with bigger hands.
+**{{j|Card Sharp}}: Giving a strong {{Mult|X3}} boost if the poker hand was scored previously in the round, it is almost impossible not to benefit from it due to the ease of simply playing multiple High Cards.
+**{{j|Hologram}}: High Card/Pair builds do not necessarily care about overall consistency or individual card quality as much, as most of the scoring is sourced from the Jokers as well as the [[Planet Cards|Planet]] scaling. This allows the player to very easily take advantage of Hologram's fast scaling rate.
+**{{j|Ramen}}: An unconditional {{Mult|X2}} boost, it and this Joker go together greatly, as they are only weakened by discards - something the player would not be doing in the first place in ideal scenarios if they had both.
+**{{j|Vampire}}: While it does not scale as fast as it would in builds playing full 5-card hands when paired with Green Joker (as a general rule of thumb), it is still a great option to consider, as it removes mostly insignificant buffs for much more generally useful Multiplicative Mult boosting.
+* {{j|Delayed Gratification}}: Paying out {{hl|yellow|$2}} per discard at the end of the round as long as none were used, this Joker helps significantly with the economy problems playing large amounts of hands usually incurs, while being cheaper to acquire than more generic alternatives. It is slightly less valuable past Black Stake due to the -1 discard penalty.
+*{{j|Burglar}}: Forming the best synergy with this Joker by a country mile, trading in discards for an extra three hands provides a huge power ceiling boost, allowing this Joker to reach even higher levels of Mult before key points in the run. It also gives more consistency to finding stronger hands, which can be leveraged to an effect mentioned in the '''Poker Hands''' section. However, it does turn off synergy with {{j|Banner}} and {{j|Delayed Gratification}}, so consider other options if these are key to the current build.
+*{{j|Matador}}: It can pay out '''tremendously''' if the right Boss Blind is encountered, as just playing repeated High Cards of debuffed cards (for example) can net {{hl|yellow|$24}} or more, enough to approach the default interest cap on its own. Only do this if the scoring provided by other sources is sufficient, however.
+*{{j|Space Joker}}: With the high volumes of hands Green Joker builds play, this can help to periodically tune the scaling even higher.
+*{{j|Vagabond}}: Another very seamless synergy, generating a [[Tarot Cards|Tarot Card]] after every hand played as long as no more than {{hl|yellow|$4}} are held. Creating 3 or more in a single round can lead to very rapid deck enrichment and manipulation, allowing pivots into much stronger hands that will appreciate the sea of Mult that Green Joker will give.
+
+Anti-synergies:
+* {{d|Black}}: While the added Joker slot allows Green Joker's power to be lifted up more by Multiplicative Mult Jokers, the -1 hand penalty is too burdensome, meaning it will not scale at the same pace without at least an entire extra [[Vouchers|Voucher]] ('''Grabber'''), on top of the fact that the repeated playing of hands will only exacerbate the Deck's economy issues.
+* {{d|Red}}: The +1 discard bonus is completely redundant to a Green Joker build, which should only be using discards in emergencies anyway.
+* {{d|Anaglyph}}: Skipping Blinds to get extra [[Tags]] means not getting those extra Mult points on this Joker, which, in very extreme circumstances, could spell the player's demise. Given the power of stacking Tags, however, this is usually a nonissue.
+* {{ph|High Card}} (especially so, as it is always assembled)
+* {{ph|Pair}}
+* {{ph|Two Pair}}
+*The '''Grabber''' and '''Nacho Tong''' Vouchers give additional hands per round, allowing Green Joker to scale even higher.
+*'''The Hook:''' This boss blind counters Green Joker's scaling potential as it discards 2 random cards every hand played, causing only a net neutral at the end. It is recommended to try to win as fast as possible against The Hook so players can have some money leftover as they cannot scale Green Joker against this boss blind.
+*Green Joker and Green Deck appear to go together.  They are the exact same color of Green, and they have a synergistic benefit.
+*This Joker has a direct counterpart in {{j|Ride the Bus}}: both are Additive Mult Jokers that gain power whenever a hand (regardless of type) is played, and both have ways to lose their power as well, which encourages the player to not perform a specific action (using discards in this Joker's case, or playing face cards in the other's).
+
+Joker: Crafty Joker
+Synergies:
+*{{j|Smeared Joker}} makes it easier to play Flushes.
+*{{j|Droll Joker}} gives +10 Mult when playing a Flush.
+*{{j|The Tribe}} gives X2 Mult when playing a Flush.
+*This joker is part of a series which provide a Chips boost for a specific hand. The others are {{J|Sly Joker}}, {{J|Wily Joker}}, {{J|Clever Joker}} and {{J|Devious Joker}}.
+
+Anti-synergies:
+
+
+Joker: Mr. Bones
+Synergies:
+*{{j|Blueprint}} and {{J|Brainstorm}} can't copy this Joker, so don't try to get multiple extra lives out of it.
+*{{j|Showman}} can let you pick up multiple Mr. Bones, which you'd likely need the effects of due to missing 3 scoring Jokers by that point.
+*Mr. Bones can bail you out of any round before Ante 39. This is because at ante 39 the required score is "[[Wikipedia:NaN|NaN]]" - Not a Number - and the game will not recognize any number as at least 25% of the requirement.
+
+Anti-synergies:
+
+
+Joker: Ceremonial Dagger
+Synergies:
+* Ritual weapons including knives and daggers are used in many forms of [[Wikipedia:Sacrifice|ceremonial sacrifice]] in the real world, and as such are found in many fictional works.
+* This Joker is the main star in the {{D|On a Knife's Edge}} [[Challenge Decks|challenge]]. It receives the [[Stickers#Eternal_Sticker|Eternal Sticker]] and a unique '''Pinned''' property, which makes it permanently stuck at the leftmost side. As a result, players must constantly "feed" the dagger during this challenge, and it cannot benefit from {{J|Blueprint}} (but it works with {{J|Brainstorm}} normally).
+*Outside of the aforementioned Challenge, Ceremonial Dagger ''can'' be used with four other Jokers once it's buffed up significantly. Simply move it to the rightmost slot at the end of each blind, start a new blind and move it back to the leftmost side so it can provide maximum effect for other Multiplicative Jokers. This ensures Ceremonial Dagger doesn't consume any other Jokers while still providing +Mult for the round.
+
+Anti-synergies:
+
+
+Joker: Sock and Buskin
+Synergies:
+*{{j|Pareidolia}} will retrigger all cards.
+*{{j|Smiley Face}} will add an additional {{mult|+5}} per face card.
+*{{j|Scary Face}} will add an additional {{chips|+30}} per face card.
+*{{j|Triboulet}} will add an additional {{mult|x2}} per King or Queen.
+*{{j|Bloodstone}} might give an additional {{mult|x1.5}} for each heart face card which can be guaranteed with {{j|Oops! All 6s}}. The maximal multiplier which can achieved assuming a hand full of heart face cards is 〜57.67X.
+*[[Wikipedia:Sock and buskin|Sock and buskin]] are allegedly ancient symbols of comedy and tragedy.
+*Traditionally, the two masks of Comedy and Tragedy are known as Thalia and Melpomene.
+
+Anti-synergies:
+*5 cards hands such as {{ph|Full House}} and {{ph|Five of a Kind}} will let you retrigger the most amount of face cards.
+*{{ph|Straights}}, although being a five card hand can only let you play up to 3 face cards.
+
+Joker: Four Fingers
+Synergies:
+*{{J|Shortcut}} joker makes straights and straight flushes easier to make as your straights can begin skipping ranks.
+*{{J|Square Joker}} can be scaled with straights and flushes when four cards are played.
+*{{J|Séance}} can be easier to trigger since straight flushes are easier to get.
+*{{J|Marble Joker}} adds stone cards to the deck, which are extra useful, since they can now be used with 4-card flushes or straights to boost chip counts.
+*{{J|Four Fingers}} does not stack. Multiple copies still require four cards to make straights and flushes.
+*In poker, card sets are called "hands", and the relevant hands here are normally five cards each, so "Four Fingers" is a reference to a hand that's short by one card/finger.
+*The drawing on the joker is very similar to common cartoon hands, which often have only four fingers.
+*"Four fingers" is a sign that is made in Baseball to direct a pitcher to intentionally walk the batter.
+
+Anti-synergies:
+
+
+Joker: Merry Andy
+Synergies:
+*{{J|Juggler}} helps with negating this joker's downside.
+*{{J|Banner}} can combo with Merry Andy to provide additional chips early game.
+* It also works well with {{J|Delayed Gratification}} for economy, increasing the payout by an extra $6.
+
+Anti-synergies:
+*"Andy" is commonly used as a term on Twitch as a generic way to refer to a person. It's often preceded by any other combination of words, e.g. "Balatro Andy" would be a way to refer to someone playing this game.
+*If you generate Merry Andy through a Judgement [[Tarot Cards|Tarot Card]], you will get the extra discards for the current hand without cards being discarded from your hand, but will drop your hand size when you next draw.
+*Merry Andy has the same unlock condition as the '''Speedrunner''' [[Achievements|achievement]].
+*Effect
+**Leftover {{hl|red|Discards}} carried over to the next round -> {{hl|red|+3}} discards each round, {{hl|red|-1}} hand size
+*Rarity
+**{{hl|red|Rare}} -> {{hl|green|Uncommon}}
+
+Joker: Invisible Joker
+Synergies:
+*The card art is semi-transparent, making it somewhat see-through.
+*Invisible Joker can duplicate a second Invisible Joker if players manage to acquire one via {{J|Showman}}.
+**In the second demo, the duplicated Invisible Joker preserved the "round played" status (2/2), thus it could be immediately sold, creating another ready-to-sell copy. This process effectively allowed players to farm infinite money by duplicating and selling Invisible Joker over and over.
+**In the current version of the game, this exploit using Showman has been fixed, as the duplicated Invisible Joker has its round played status reset to 0/2, so players must play two more blinds to sell it again.
+*The line "(Removes Negative from copy)" in the Joker's effect only shows if you already have a negative Joker.
+*A duplicated Joker from a Negative edition Invisible Joker can let the player have 1 more Joker than the number of slots. If the player manages to acquire a negative Invisible Joker and sell it with all joker slots filled, the player will still gain a copy of a random joker. Doing so, however, will add -1 to the Joker Slots (example: 6/5), preventing other Negative Jokers from being bought.
+*An Invisible Joker that is duplicated by the Ankh [[Spectral Cards|Spectral Card]] will be created with the same number of "round played" status as the original. Any copies created by selling a second Invisible Joker will still have 0/2 rounds played, however.
+*Effect
+**Sell after {{hl|orange|3}} rounds -> sell after {{hl|orange|2}} rounds
+*Price
+**{{hl|yellow|$10}} -> {{hl|yellow|$8}}
+
+Anti-synergies:
+
+
+Joker: Mystic Summit
+Synergies:
+
+
+Anti-synergies:
+*'''The Water:''' This blind synergizes with Mystic Summit as the 0 discard condition means Mystic Summit will be automatically activated.
+*Stuff that may be fun to know about this Joker.
+
+Joker: Ancient Joker
+Synergies:
+* Since Ancient Joker is a "When Scored" effect, retriggering cards will repeat the application of Ancient Joker, such as {{J|Dusk}}, {{J|Sock and Buskin}}, {{J|Hack}}, and especially {{J|Seltzer}}, as it is an unconditional retrigger for 10 hands.
+* Similarly, Jokers which apply additive Mult effects when cards are scored, such as {{J|Lusty Joker}}, {{J|Even Steven}}, {{J|Walkie Talkie}}, and {{J|Scholar}}, can benefit from Ancient Joker. Most notable are other Jokers that trigger X Mult effects, though. Mostly, this will be {{J|Photograph}}, since the others require heavy centralization around suits and ranks, but they will all scale off the effects of retrigger Jokers.
+* Ancient Joker's Mult is added when cards are being scored, so additive Mult Jokers that trigger during the Joker scoring step do not benefit from its effect. However, multiplicative Mult effects will combine regardless of when they are applied, such as {{J|Acrobat}}, {{J|Hologram}}, and {{J|Cavendish}}.
+** {{J|The Tribe}} can work especially well, since you are ideally always playing Flushes, making it a smaller, consistent bonus.
+*Since Ancient Joker loves Flushes so much, ways to level up Flushes are very strong in combination. The best ways to do this with Jokers are through {{J|Burnt Joker}} and {{J|Space Joker}}, though other Jokers can help with planet scaling in other ways, like {{J|Constellation}} to add an extra bonus for using planet cards, or {{J|DNA}} to duplicate Blue Sealed cards (which are ideally also Wild or Steel).
+**Other planet-focused builds, even if they aren't Flush-based, can utilize Ancient Joker well, as the high base Mult of the poker hand gives Ancient a higher starting point. Even only triggering its effect three times makes it equivalent to a X3 Mult Joker. 
+* {{J|Blueprint}} and {{J|Brainstorm}} allow for especially powerful repetition of Ancient Joker's exponential scaling.
+* {{J|Smeared Joker}} makes the effect of Ancient Joker much more consistent to trigger, as well as allowing for easier Flush hands of either suit pair.
+*Unlike {{J|Castle}}, which chooses its suit proportionally to the composition of the current deck, Ancient Joker chooses evenly amongst the four suits, regardless of the current deck's composition.
+*The card's artwork is a reference to OLBAP, a face that Twitch streamer michaelalfox (MALF) would often sketch when streaming games that involve drawing.
+*Effect
+**The selected suit is no longer able to repeat between rounds
+
+Anti-synergies:
+
+
+Joker: Burglar
+Synergies:
+*{{J|Ride the Bus}}, {{J|Green Joker}}, {{J|Square Joker}}, {{J|Spare Trousers}}, or {{J|Supernova}} will all have extra opportunities to scale.
+*Burglar's removal of all Discards ensures {{J|Mystic Summit}}'s {{Mult|+15}} bonus will trigger on all hands.
+*{{J|Blueprint}} and {{J|Brainstorm}} will both give even more hands on top of Burglar's own without a downside, as you can freely rearrange your Jokers afterwards.
+**Additionally, because Burglar triggers right as you begin the round, you can actually have Blueprint/Brainstorm copy a {{J|Marble Joker}} or {{J|Cartomancer}} when the blind is selected, then QUICKLY swap Blueprint/Brainstorm to Burglar, and get the benefits of both. This requires very quick timing, however.
+*{{J|Vagabond}} will have extra hands to create more Tarot Cards.
+*{{J|Card Sharp}} will have extra opportunities to boost a hand.
+*{{J|Loyalty Card}} can trigger every blind.
+*{{J|Ramen}} and {{J|Green Joker}} will never deplete.
+
+Anti-synergies:
+*Any Joker which cares about unused discards, including {{J|Banner}} and {{J|Delayed Gratification}}
+*Any Joker that lose effect upon hands played, like {{J|Seltzer}} will likely be used up faster.
+*Jokers which care about you discarding (eg. {{J|Faceless Joker}})
+*Jokers which give extra discards (eg. {{J|Drunkard}} and {{J|Merry Andy}})
+* '''The Needle''' (Play only 1 hand): Burglar activates after the boss reduces the number of hands to 1, resulting in a final total of 4 hands.
+*'''The Water''' (Start with 0 discards): As players would've started with 0 discards regardless, and can use additional hands from Burglar as discards.
+* '''The Hook''' will discard two cards randomly after each hand played, making it extremely hard to build a specific hand.
+** Also, if you already have a high count of hands (6 or more for standard 52-card decks) or a small deck, it's possible to use up all cards from the deck, resulting in an instant game over.
+*'''The Mouth''': If you don't draw a good starting hand, it is impossible to discard it, and all following hands will have to be of the same type.
+*'''The Fish''': Your starting hand will be the only cards you see face up, and you'll be playing blind once you play them. <!-- pun intended -->
+*'''The Tooth''': Since you must use hands as discard, it's possible to lose up to $30 against The Tooth, which can cripple your economy.
+*Burglar is useful to scale any Jokers that requires lots of hands to build up. This includes {{J|Ride the Bus}}, {{J|Green Joker}}, {{J|Square Joker}}, {{J|Spare Trousers}}, or {{J|Supernova}}.
+*Burglar is very strong if you have jokers which grant money/resources for each hand played, such as {{J|Reserved Parking}}, {{J|Space Joker}} or {{J|Vagabond}}.
+* The Burglar wears the classic black-and-white stripes of an American [[Wikipedia:Prison uniform|prison uniform]], first introduced in the New York prison system in the 1820s. This suggests the Burglar is also currently an inmate of a jail, or perhaps an escapee.
+
+Joker: Zany Joker
+Synergies:
+* This joker is part of a series which provide a Mult boost for a specific hand. The others are {{J|Jolly Joker}}, {{J|Mad Joker}}, {{J|Crazy Joker}} and {{J|Droll Joker}}.
+
+Anti-synergies:
+
+
+Joker: Campfire
+Synergies:
+* Like a real campfire, this Joker needs a continuous source of fuel to keep burning brightly.
+*Effect
+**Gains {{Mult|X0.5}} per card sold -> gains {{Mult|X0.25}} per card sold
+
+Anti-synergies:
+
+
+Joker: Scholar
+Synergies:
+*{{J|Fibonacci}} gives you {{Mult|+8}} per Ace
+*{{J|Hanging Chad}} will trigger the Aces thrice.
+*{{J|DNA}} can copy an Ace every first hand
+* {{J|Superposition}} creates a [[Tarot Cards|Tarot Card]] if the played hand is a Straight which contains an Ace.
+*Any jokers requiring multiples of the same rank cards
+*The A+ mark is reminiscent of a teacher marking their student's homework with a red ballpoint pen.
+*Aces give you +4 Mult and +20 chips (4/20), because aces are high.
+
+Anti-synergies:
+
+
+Joker: Castle
+Synergies:
+*{{J|Drunkard}} and {{J|Merry Andy}} both provides additional discards, allowing Castle to scale more per round.
+*{{J|Yorick}} will also scale alongside Castle.
+*{{J|Smeared Joker}} makes Castle twice as easy to scale.
+*Conversely, {{J|Burglar}} prevents this Joker entirely from scaling.
+*{{J|Banner}}, {{J|Delayed Gratification}}, and {{J|Ramen}} conflict with this Jokers, as their effects rely on not using discards.
+*Similarly, {{J|Trading Card}} and {{J|Burnt Joker}} place restrictions on discards which interfere with triggering Castle's effect optimally.
+*The suit is chosen in proportion to the suit composition of the current deck. For example, in a deck of 20 Clubs and 10 Spades, Castle would select Clubs two thirds of the time, and Spades for the remaining third.
+*If the deck has no card with any suit (i.e full Stone Cards), Castle will default to +3 chips per discarded Spade.
+
+Anti-synergies:
+
+
+Joker: Wily Joker
+Synergies:
+*{{j|Zany Joker}}: +12 Mult when played hand contains Three of a kind.
+*{{j|The Trio}}: x3 Mult when played hand contains Three of a kind.
+* This joker is part of a series that provides a Chips boost for a specific hand. The others are {{j|Sly Joker}}, {{j|Clever Joker}}, {{j|Devious Joker}}, and {{j|Crafty Joker}}.
+
+Anti-synergies:
+
+
+Joker: Even Steven
+Synergies:
+*As with every Joker that triggers an effect when a card is scored, retrigger Jokers increase the effect of Steven by an order of magnitude. Steven itself isn't a great Joker to build a retrigger strategy around, but combined with a source of X Mult from played cards, like {{J|Ancient Joker}} or [[Enhancements|Glass cards]], it can be a valid strategy.
+**Tarot generators also work well with Steven, because of Glass cards and even rank preference from Even Steven.
+*Because Steven is best used as an early-game method of boosting Mult, combining it with Economy Jokers is very beneficial. The earlier Antes can be easily cleared in 1 or 2 hands with Steven, meaning you will be looking for more powerful Jokers or other forms of scaling, which is what Economy Jokers help you afford.
+*{{J|Walkie Talkie}} lets you give another boost to '''10'''s and '''4'''s, though without retriggers having both can be a bit of a waste of Joker slots.
+*{{J|Wee Joker}} gets buffed for every '''2''' that scores. Comboing it with Steven lets you play weaker 2-based hands and still gain a decent score.
+*{{J|Ride the Bus}} provides a decent source of scaling that uses Steven very effectively, since even cards are already more desirable with Bus.
+*"Even Steven" is a way of saying something is evenly matched or evenly split between things. "I split the cake with my friend even-steven."
+*Even Steven is similar in style to {{J|Odd Todd}}, which gives Chips for odd ranks instead.
+
+Anti-synergies:
+
+
+Joker: Gift Card
+Synergies:
+*{{J|Swashbuckler}} combined with multiple Gift Cards (obtained via {{J|Showman}} or [[Spectral Cards]]), can be used for fast scaling mult.
+*{{J|Ceremonial Dagger}} can consume Gift Card for Mult, potential high return if it's grown enough.
+*{{J|Cartomancer}} (and all other jokers that create [[Tarot Cards|Tarot Card]]s): Can create the Temperance card, which can generate money equal to the sell value of each of your jokers.
+*[[Wikipedia:Gift_card|Gift cards]] are pre-paid cards that can be used at participating store as a substitute for money, they are usually given as gifts, especially when it may be seen as rude or lazy to gift money.
+
+Anti-synergies:
+
+
+Joker: Ice Cream
+Synergies:
+*{{J|Throwback}}: Ice Cream melts with every hand played, and Throwback wants to skip blinds.
+*Just like the real thing, the Ice Cream joker "melts" after each hand.
+*The text "Melted!" will flash under Ice Cream when it disappears.
+
+Anti-synergies:
+
+
+Joker: Drunkard
+Synergies:
+*Jokers that activate when discarding specific cards, suits or hands:
+**{{j|Trading Card}} when discarding a single card.
+**{{j|Hit the Road}} when discarding Jacks.
+**{{j|Faceless Joker}} when discarding 3+ face cards.
+**{{j|Burnt Joker}} when discarding any Poker Hand.
+**{{j|Mail-In Rebate}} when discarding the random rank chosen.
+**{{j|Castle}} when discarding the random suit chosen.
+*"Remaining discards" Jokers:
+**{{j|Banner}} gives more chips if you have more discards.
+**{{j|Delayed Gratification}} provides $2 per discard if no discards are used.
+*Jokers that want to play a specific, difficult to find hand:
+**{{j|Séance}} wants to play a Straight Flush.
+**{{j|Superposition}} wants to play a Straight which include an Ace.
+**{{j|Card Sharp}} wants you to play the same Poker Hand twice.
+*{{j|Yorick}} to help scale Yorick faster.
+
+Anti-synergies:
+*{{j|Burglar}} as it removes all discards (no matter the order of the 2 Jokers).
+*{{j|Green Joker}} as it gets -1 Mult for every discard used.
+*{{j|Ramen}} as any Discards reduce it's {{mult|X}}.
+*Has a very similar theme to {{j|Juggler}}, both in effect and card design.
+
+Joker: Joker Stencil
+Synergies:
+
+
+Anti-synergies:
+* {{D|Plasma}} is also generally not good with this, as usually you either want a lot of chips cards for early antes or need a lot more mult for later antes, more then what this Joker gives.
+*Any negative Joker works well with this, as they  do not take up a Joker slot.
+*Because the {{J|Joker Stencil}} counts itself as an empty slot, multiple Joker Stencils combine brilliantly. If you have five slots, two Joker Stencils and no other Jokers, they both provide {{Mult|x5}} for a combined total of {{Mult|x25}}. A negative joker stencil gives an extra {{Mult|x1}} to each Joker Stencil (the formula being {{Mult|x}} = Empty Joker slots + # of Joker Stencils).
+*{{J|Invisible Joker}} can also be good for duplicating the Joker Stencil, provided you can make it through enough rounds to sell it.
+*While {{J|Blueprint}} and {{J|Brainstorm}} both copy the main effect of Joker Stencil, they do not take on the secondary effect of acting as an empty joker slot. This may make their synergies with Joker Stencil inadvisable.
+*Any Joker giving Mult is good, as it's better to have a bigger base Mult to multiply off of. Jokers that can reach high levels of Mult by themselves like {{J|Ceremonial Dagger}}, {{J|Red Card}}, {{J|Erosion}}, {{J|Flash Card}}, and {{J|Bootstraps}} are really good as you don't have to rely on multiple Jokers to get large amounts of Mult.
+*'''Antimatter''' provides +1 Joker Slot and therefore gives it an extra {{mult|X1}}.
+*The joker image has been cut out the card, allowing you to see through it when moving this Joker around.
+*Effect
+**{{mult|X2}} if there's one or more empty Joker Slot -> {{mult|X1}} per empty Joker slot, including this Joker
+
+Joker: Scary Face
+Synergies:
+*If the first card of the hand is a face card,{{J|Hanging Chad}} will cause Scary Face to trigger thrice, giving {{chips|+90}}.
+*{{j|Pareidolia}} causes Scary Face to trigger on all played cards.
+*{{j|Splash}} allows non-scoring cards to trigger Scary Face (by making them score).
+
+Anti-synergies:
+
+
+Joker: Shoot the Moon
+Synergies:
+*{{J|Mime}} doubles the trigger of this Joker's effect.
+*{{J|Midas Mask}} can add a buff to played Queens, providing an additional benefit thereafter when Queens are held in hand.
+*{{J|Reserved Parking}} provides cash when face cards are held in hand.
+*{{J|Ride the Bus}} disincentivizes playing face cards, and this Joker only triggers on unplayed Queens.
+*{{J|Baron}} increases the amount of mult gained by 1.5x per king, as long as you physically move the Kings to the right of your Queens.
+*"Shooting the Moon" is a term used in the popular card game "[[Wikipedia:Hearts (card game)|Hearts]]", for winning a hand by taking every heart card and the Queen of Spades. Normally these cards give you points - which you aim to avoid in Hearts as lowest scorer wins - but if you can take all of them, your opponents get hit with a points penalty instead. It is a risky play to attempt, as missing just one card ruins the attempt and will cause you to take a lot of points.
+*The +13 mult refers to the Queen of Spades in Hearts being 13 points.
+*The art of Shoot the Moon is based on the Queen of Spades, most noticeable by the design of their staves being the same.
+
+Anti-synergies:
+
+
+Joker: Baseball Card
+Synergies:
+* Other X Mult Uncommons work incredibly well with Baseball Card, like {{j|Blackboard}}, {{j|Hologram}}, and {{j|Glass Joker}}. Their effect is increased by 50% in effect, making them much stronger, especially scaling ones.
+*Effect or economy Uncommon Jokers are more useful with Baseball, like {{j|To the Moon}} and {{j|Shortcut}}, since they usually would have no direct scoring bonus.
+*Luck-based builds can use Baseball Card to great effect, since {{j|Oops! All 6s}} and other key Jokers for them like {{j|Bloodstone}}, {{j|Lucky Cat}} and retrigger Jokers are all uncommon.
+*{{j|Séance}} and {{j|Sixth Sense}} can generate Ectoplasms, which allow you to hold more Uncommon Jokers, scaling Baseball Card more.
+*Baseball Card is compatible with {{j|Blueprint}} and {{j|Brainstorm}}. Using a copy Joker will reduce the total amount of Uncommon Jokers, but can provide more total X Mult.
+*Baseball Card will still trigger on debuffed uncommon jokers.
+*[[Wikipedia:Baseball card|Baseball cards]] are a type of collectable trading card, with uncommon baseball cards being worth more than common cards.  This joker plays on this theme, with uncommon jokers granting a bonus.
+
+Anti-synergies:
+
+
+Joker: Square Joker
+Synergies:
+* {{J|Four Fingers}}: Allows Straights and Flushes to be made with only four cards.
+* {{J|Splash}}: Allows High Cards to score with all 4 cards, providing more bonus.
+* {{J|Spare Trousers}}: Requires Two Pairs hand to scale, which is exactly 4 cards.
+* The Eye: all hands must be a different type
+* The Mouth: only 1 hand type can be played
+* The Psychic: hand must have 5 cards
+*The artwork of this Joker is an exaggerated version of [[Wikipedia:Pixel art|pixel art]], which is slightly ironic considering all the artwork in this game is in that style. Even the "Joker" text on the card has been squared off, with chunky letters.
+*The value 4 is a [[Wikipedia:Square number|square number]], which are numbers made by multiplying one number with itself. 4 is 2<sup>2</sup>, or 2×2.
+*The Joker's sprite is also exactly a square, being 138x138 pixels.
+*This Joker is part of a set that doesn't adhere to the 142x190 image size, together with {{j|Photograph}}, {{j|Half Joker}}, and {{j|Wee Joker}}. When playing against the Amber Acorn [[Blinds|Boss Blind]], they are easy to differentiate from others due to having a different shape, even when flipped.
+*Effect
+**Starts at {{chips|+16}} -> starts at {{chips|+0}}
+*Price
+**{{hl|yellow|$5}} -> {{hl|yellow|$4}}
+*Artwork
+**Square Joker now has a square sprite
+
+Anti-synergies:
+
+
+Joker: Yorick
+Synergies:
+*{{J|Drunkard}} gives an additional discard, expediting the process of improving Yorick.
+*{{J|Merry Andy}} gives 3 additional discards, which helps improve Yorick's ability even faster. However, its -1 hand size, unlock requirement, and rarity compared to Drunkard may make it more difficult to come by.
+*Jokers which increase hand size, such as {{J|Juggler}}, can be helpful as they make it easier to level up Yorick without discarding wanted cards.
+*{{J|Mystic Summit}}, {{J|Faceless Joker}}, {{J|Mail-In Rebate}}, {{J|Castle}}, {{J|Hit the Road}} and {{J|Burnt Joker}} all have abilities that activate on discard.
+
+Anti-synergies:
+*{{J|Delayed Gratification}}, {{J|Banner}}, {{J|Green Joker}} and {{J|Ramen}} all have abilities that require the player to avoid discarding cards, making it harder to improve Yorick's ability.
+*[[Wikipedia:Yorick|Yorick]] is an unseen character in William Shakespeare's play '[[Wikipedia:Hamlet|Hamlet]]'. He is the dead court jester whose skull is exhumed in Act 5, Scene 1, of the play. The sight of Yorick's skull evokes a reminiscence by Hamlet of the man, who apparently played a role during Hamlet's upbringing: "Alas, poor Yorick! I knew him, Horatio; a fellow of infinite jest."
+**This also seems to be the origin of the 23 discards levelling, as in the same Act 5, Scene 1 of the play, the following lines can be found: "This skull has lain in the earth '''three-and-twenty''' years ... Sir, this skull belonged to Yorick, the king’s jester".<ref>https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/1/#line-5.1.179</ref>
+*This joker is animated, with Yorick hovering just above the gold card face.
+*The other legendary Jokers are {{J|Canio}}, {{J|Chicot}}, {{J|Perkeo}}, and {{J|Triboulet}}.
+*Effect
+**{{Mult|X5}} only after using 23 discards -> gains {{Mult|X1}} every 23 cards discarded
+
+Joker: Perkeo
+Synergies:
+* Synergies:
+**Perkeo benefits greatly when paired with {{J|Blueprint}} and/or {{J|Brainstorm}}, allowing players to generate 2-3 negative consumables every blind. Note that each trigger of the ability may select a different consumable to copy. 
+** {{J|Superposition}}, {{J|Cartomancer}}, {{J|Hallucination}}, {{J|Vagabond}}, and {{J|8 Ball}} can all be used to generate [[Tarot Cards]] that you can save in your consumable slots to use with Perkeo.
+** {{J|Sixth Sense}} and {{J|Séance}} can both be used to generate powerful spectral cards that you can save to duplicate as well.
+** Jokers like {{J|Constellation}} (multiplicative mult) and {{J|Fortune Teller}} (additive mult) can be useful to gain much higher scores as you will likely be using lots of duplicated planet and tarot cards throughout any run with Perkeo.
+** {{J|Campfire}} works extremely well with Perkeo as you can continuously sell the duplicated consumable cards to keep the multiplier on it high.
+** {{J|Gift Card}} works well with Perkeo if you save your consumable cards since you can sell them at a later date for much more money than they were initially worth.
+* Anti-Synergies:
+** Due to the nature of Perkeo there aren't any particular jokers that ruin their gimmick. Just be cautious when taking jokers that generate consumable cards to be sure they don't gum up your strategy with too many cards that you don't want duplicated.
+* [[Tarot Cards|Tarot cards:]]
+** ''The Fool'' is extremely strong with Perkeo as it will allow you to duplicate cards you previously used from packs to put into your consumable slot. This makes it much easier to find the consumable cards you're looking for. 
+** ''The Hanged Man'' is one of the strongest interactions with Perkeo, as you can use it to keep removing cards from your deck.
+** ''Death'' can allow you to turn your entire deck into particular cards you want, especially if they're enhanced.
+** ''The High Priestess'' and ''The Emperor'' can allow you to dig for more useful planet and tarot cards respectively.
+** ''Judgement'' and ''The Wheel of Fortune'' can let you create more jokers if you need them or enhance existing jokers.
+* [[Spectral Cards|Spectral cards]]:
+** ''Cryptid'' and ''Immolate'' are arguably the best cards to use with Perkeo. ''Immolate'' allows you to get an insane amount of money while thinning your deck out significantly and ''Cryptid'' being the most useful by letting you duplicate existing buffed up cards in your deck.
+** ''Aura'' and ''Ectoplasm'' are useful to have so you can enhance your deck or enhance your jokers. Though you should only really try to use ectoplasm a few times at most since the compounding '- hand size' will eventually make it extremely hard to build a decent hand.
+** ''Deja Vu'', ''Talisman'', ''Trance'', and ''Medium'' can allow you to cover your entire deck in seals if you need it. However, the best strategy is to use them a few times and then just duplicate the cards you put them on. Red seals are the most useful for going into the late game especially for endless mode.
+* [[Planet Cards|Planet cards]]:
+** No particular planet cards synergize with Perkeo. If your deck focuses on a particular hand, you can use Perkeo to endlessly duplicate the relevant Planet card to enhance the hand each round, or to power the hand up with the Observatory voucher.
+* The Observatory voucher is arguably the strongest synergy one can get with Perkeo. It makes planet cards in your consumable slot give x1.5 mult for their respective hands when that hand is played, so naturally you want to build your deck to play a particular hand. The most consistent for Endless mode are likely either High Card, Five of a Kind or Flush Fives, though it can be built to work with any hand. If you can get just one of the planet cards that relates to the hand you want to play most it can cause some insane scaling. This is doubly true for for any effects like ''Blueprint'' or ''Brainstorm'' where having those can get 1, 2, or even 3 cards from Perkeo for every shop you get.
+* ''Tarot/Planet Merchant,'' and ''Tycoon'' can give you better access to Planet and Tarot Cards to duplicate. The Zodiac deck works well with Perkeo as it starts with both the Tarot Merchant and Planet Merchant vouchers.
+*[[Wikipedia:Perkeo of Heidelberg|Perkeo of Heidelberg]] (born Clemens Pankert, according to other sources Giovanni Clementi; 1702–1735) was a notable jester of Elector Palatine Charles III Philip in Heidelberg. As guardian of the Great Heidelberg Tun, he has since become an unofficial mascot of the city and region. His name, story, and image have been connected with a variety of festivals, traditional songs, cultural and scientific institutions, hotels, restaurants, and private companies (in and out of the region) ever since.
+*Perkeo's ability to hold infinite consumable cards is a reference to the real jester's penchant for allegedly consuming between five and eight US gallons of wine a day (possibly due to a case of [https://en.wikipedia.org/wiki/Diabetes_insipidus Diabetes Insipidus]).
+*This joker is animated, with Perkeo hovering just above the green card face.
+*The other legendary Jokers are {{J|Canio}}, {{J|Chicot}}, {{J|Triboulet}}, and {{J|Yorick}}.
+
+Anti-synergies:
+
+
+Joker: Abstract Joker
+Synergies:
+* Near the beginning of the game, this Joker works best with {{J|Riff-Raff}}, which creates up to two Jokers per round.
+* It gains additional Mult when using any type of Negative Joker.
+* This Joker should not be used with {{J|Ceremonial Dagger}} or {{J|Madness}}, which both destroy Jokers.
+*During the first demo, this Joker only provides +2 Mult per Joker equipped, making it quite weak. It was buffed to +3 Mult per Joker equipped, making it on par with Mystic Summit without the need to go to 0 Discard.
+*The card design is likely a reference to the [[Wikipedia:Abstract art|Abstract art]] style.
+
+Anti-synergies:
+
+
+Joker: The Trio
+Synergies:
+*{{j|Wily Joker}} gives {{chips|+100}} when played hand contains a Three of a Kind.
+*{{j|Zany Joker}} gives {{mult|+12}} when played hand contains a Three of a Kind.
+*This joker is part of a set that gives strong Mult boosts for playing specific hands, which are unlocked by winning a run without playing that hand. The others are {{J|The Duo}}, {{J|The Family}}, {{J|The Order}} and {{J|The Tribe}}.
+
+Anti-synergies:
+
+
+Joker: Bootstraps
+Synergies:
+*{{j|Bull}} provides a Chips boost for having money.
+*All [[:Category:Economy Jokers|Economy Jokers]], like {{j|Rocket}} or {{j|To the Moon}} help accumulate money quickly.
+*'''The Ox''' can neutralize Bootstrap if most played hand is played, resetting money to $0.
+*This might be a reference to the phrase "pulling yourself up by your bootstraps", or to [[Wikipedia:Entrepreneurship#Bootstrapping|Bootstrap funding]].
+
+Anti-synergies:
+
+
+Joker: Wrathful Joker
+Synergies:
+
+
+Anti-synergies:
+
+
+Joker: Hologram
+Synergies:
+
+
+Anti-synergies:
+*This card is animated, with the Joker face hovering above the card, flickering like an old [[Wikipedia:Cathode-ray tube|CRT]] television screen.
+
+Joker: Arrowhead
+Synergies:
+*An arrowhead is a rough approximation of the shape of a spade.
+*Arrowhead is one of four stone/mineral themed jokers unlocked by having 30 of that suit in your deck.  The others are {{J|Rough Gem}} (diamonds), {{J|Bloodstone}} (hearts), and {{J|Onyx Agate}} (clubs).
+
+Anti-synergies:
+
+
+Joker: Juggler
+Synergies:
+*{{j|Baron}}: gives X mult for kings held in hand.
+*{{j|Shoot the Moon}}: gives +13 mult for each queen held in hand.
+*{{j|Mime}}: more cards held in hand means more cards for Mime to retrigger.
+*{{j|Troubadour}}: +2 hand size, coupled with Juggler, will provide a whooping 11 cards in hand.
+*During the first demo, Juggler provided +2 hand size with no penalty, making it very powerful. It was nerfed to only provide +1 hand size upon release, and the +2 hand size is given to Troubadour with a -1 hand per round penalty as a caveat.
+
+Anti-synergies:
+
+
+Joker: Driver%27s License
+Synergies:
+*The number of enhanced cards needed to activate this Joker might be a reference to a common age required to be able to obtain a real driver's license. This varies by jurisdiction, is often between 15 and 21, and may include additional restrictions for younger drivers on types of vehicle or terms of use.
+*The name of the driver in this Joker is "Jen Joker", with her date of birth being December 3rd, 1995. The license expires on January 24th, 2025. The significance of these dates remains to be seen.
+*On December 3rd, 1995 (Jen Joker's birthday), US tennis player, [https://en.wikipedia.org/wiki/Pete_Sampras Pete Sampras], beat Russian tennis player, [https://en.wikipedia.org/wiki/Yevgeny_Kafelnikov Yevgeny Kafelnikov] 6-2, 6-4, 7-6 to give the US a winning 3-1 lead for the [https://en.wikipedia.org/wiki/Davis_Cup Davis Cup] (record 31st US title).
+*Artwork
+**Name of Joker changed Jeb -> Jen
+
+Anti-synergies:
+
+
+Joker: Glass Joker
+Synergies:
+*{{J|Splash}}: This allows up to five Glass Cards to be played at once, in the event that the Glass Cards cannot form an ideal poker hand. While also giving more {{Mult|X2}} boosts that can potentially make or break a run, it most importantly gives extra chances at breaking Glass Cards, thereby scaling Glass Joker at a faster rate.
+*{{J|Erosion}}: An Additive Mult Joker that scales remarkably fast as the number of cards in your full deck drops below the starting amount. Even destroying single-digit numbers of Glass Cards can give it up to {{Mult|+36}}, which, in turn, will pair very nicely with this Joker's at-times simultaneous Multiplicative Mult scaling.
+*{{J|Oops! All 6s}}: With this Joker equipped, Glass Cards will break half of the time, making the rate at which Glass Joker scales '''much''' faster. This comes at the downside of exhausting your deck at the same accelerated rate, so consider finding additional ways to add cards to it, like certain [[Spectral Cards]] (Familiar, Grim, Incantation, and Cryptid), the aforementioned DNA, {{J|Certificate}}, or [[Booster Packs|Standard Packs]].
+*{{J|Trading Card}}: As long as a Glass Card is drawn in the opening hand, this can potentially lead to a {{Mult|X0.75}} boost every Blind, while also earning some value on the side.
+*{{J|DNA}}: This Joker allows duplicating Glass Cards easier, and they could break in the process, immediately providing a buff for Glass Joker.
+*{{J|Canio}}: Although these two Jokers are an unlikely combination, they can both have their Multiplicative Mult scaled greatly, and simultaneously, by destroying Glass face cards. {{J|Pareidolia}} will make ''all'' cards count as face cards, meaning that each Glass Card that breaks or is destroyed by The Hanged Man will scale both of them at once.
+
+Anti-synergies:
+*This Joker is part of a series of Enhancement-themed Jokers, which will only appear when the player has at least 1 card of their designated Enhancement in their full deck; in this Joker's case, it requires at least 1 Glass Card. The other Jokers in this series are {{J|Stone Joker}}, {{J|Steel Joker}}, {{J|Golden Ticket}} and {{J|Lucky Cat}}.
+*[[Spectral Cards]] that can destroy Glass Cards such as Immolate, Familiar, Grim, and Incantation do not increase Glass Joker. This seems to be a [[Bugs|bug]].
+*Effect
+**Gains {{Mult|X0.5}} per Glass card destroyed -> gains {{Mult|X0.75}} per Glass card destroyed
+
+Joker: Ride the Bus
+Synergies:
+*{{J|Reserved Parking}} gives you money for not playing face cards.
+*{{J|Hack}}'s effect only works on low numbered cards.
+*{{J|Trading Card}} lets you destroy face cards, allowing you to keep the effect easier. 
+*{{J|Pareidolia}} will ruin Ride the Bus's multiplier as soon as you play any hand.
+*{{J|Splash}} can trigger a face card that otherwise would have done nothing.
+*{{J|Midas Mask}} and {{J|Business Card}} can't be used without resetting Ride the Bus.
+*The name of the card may be a reference to the drinking game [https://www.wikihow.com/Play-Ride-the-Bus Ride the Bus].
+*A bus usually keeps driving until it has to stop to pick up passengers. In ''Balatro'', the face cards — Jacks, Queens, and Kings — represent people, and the "Route 210-A" could be read as allowing cards 2-10 and Ace to continue onward.
+*During the first demo, Ride the Bus provided +2 Mult per consecutive hands played without scoring Face Cards, making it as strong as Spare Trousers without any hand requirement. Upon release, it was nerfed to only provide +1 Mult for balancing purpose.
+
+Anti-synergies:
+
+
+Joker: Luchador
+Synergies:
+* {{j|Cartomancer}}: This card has the potential to create '''Judgement''' at the start of a Blind, allowing this Joker to be immediately replaced upon activating its ability. In the interim, it can also serve as a soft 'scoring' Joker by creating such cards as '''The Empress''', '''The Hierophant''', and '''Justice'''.
+* {{j|Gift Card}}: An economy Joker that increases the sell value of all held cards, including itself, by {{hl|yellow|$1}} at the end of each round. Should these two be acquired simultaneously, it allows this Joker to serve both as a last-second run-saver and a potentially huge burst of money to keep it going in the next [[The Shop|Shop]].
+* {{j|Baseball Card}}: By granting {{Mult|X1.5}} to all held Uncommon Jokers, it allows this Joker to directly contribute to scoring while its effect is being reserved for a potentially devastating Boss Blind effect. It is especially useful when combined with the previous two synergistic Jokers, as they too are Uncommon.
+* {{j|Blueprint}} and {{j|Brainstorm}}: Selling either of these Jokers while they are copying Luchador will also disable the current Boss Blind, giving you two 'charges' of the effect negation to use. Boss Blinds can only be disabled once per round, so be sure to hold onto this Joker for a potential second save. This should only be done in extreme desperation, such as a boss effect preventing a lethal score on the final hand of a round, as both of these have immeasurably more power when copying scoring Jokers.
+* {{j|Campfire}}: By selling Luchador, not only is the Boss Blind's effect disabled, but it also gives this card an additional {{Mult|X0.25}}, thereby directly improving score and making it even easier to clear the requirement.
+* {{j|Chicot}}: An exceedingly rare Legendary Joker that disables the effect of ''every'' Boss Blind while it is held. It is a sidegrade to this Joker, as while it renders each Boss Blind merely a larger, unskippable Big Blind, it will spend the entire run consuming a Joker slot, whereas this Joker will free up a slot for use later on. Due to the role overlap, these two should '''not''' be used together.
+* A [[Wikipedia:Luchador|Luchador]] is a Mexican wrestler. The joker image depicts a luchador wearing a typical wrestling mask and with a championship belt slung over his shoulder.
+* This is one of the few Jokers that has a consumable-like effect, in which disposing of it is necessary to reap its benefits. The others are {{j|Diet Cola}} and {{j|Invisible Joker}}.
+
+Anti-synergies:
+
+
+Joker: Raised Fist
+Synergies:
+*The [[Wikipedia:Raised fist|raised fist]] is an image that is commonly associated with socialist or communist ideals. It is also used in expressions of solidarity, and has been a symbol of workers' rights movements and trade unionists. The card's effect evokes this, with the scored hand (the individual) being made more effective by the remaining cards held in hand (the wider community).
+
+Anti-synergies:
+
+
+Joker: Walkie Talkie
+Synergies:
+* Retrigger Jokers (except {{j|Sock and Buskin}}) will all work remarkably nicely with this Joker. {{j|Hanging Chad}} is the easiest one to find, guaranteeing an extra {{Chips|+28}} and {{Mult|+8}} at the very least if a 4 is at the start of the hand. {{j|Dusk}} (retriggering all cards when 0 hands remain), {{j|Hack}} (retriggering all 4s), and {{j|Seltzer}} (temporarily retriggering all cards) have much higher ceilings, but are slightly more conditional.
+* {{j|Even Steven}}: Meshes well with this Joker early on, and can do so even later in the presence of a retrigger Joker, essentially doubling the yield of the Additive Mult when scoring.
+* {{j|Clever Joker}}, {{j|Sly Joker}}, and {{j|Wily Joker}}: These Chip Jokers can provide a little bit of a boost, mostly in the early game, to the hands one would be aiming to play anyway. A Full House or Flush House would trigger any (and all) of the three.
+* {{j|Jolly Joker}}, {{j|Mad Joker}}, and {{j|Zany Joker}}: Similar to the above Jokers, but for Additive Mult. These are even less advisable to keep as the run progresses, as there are far stronger sources of Additive Mult than Chips, but can clear most Blinds early on, especially when combined with this Joker.
+* {{j|Flower Pot}}: A Multiplicative Mult card that will give a strong {{Mult|X3}} benefit as long as the played hand contains at least 1 each of {{Suit|Hearts}}, {{Suit|Spades}}, {{Suit|Diamonds}}, and {{Suit|Clubs}}. Hands with multiples of the same rank, like the ones Walkie Talkie builds want to play, are generally easier to fit 1 of each suit in. Consider pairing with Wild Cards or {{j|Smeared Joker}} for extra ease of use.
+* {{j|Seeing Double}}: Though easier to trigger than the above card, only needing at least 1 {{Suit|Clubs}} card and 1 of any other suit, it only gives a middling {{Mult|X2}} bonus. It is more useful in the early-to-mid-game, but is a potential take when combined with another Multiplicative Mult source.
+* {{j|Shortcut}}: Most Straights starting with a 10 and having at least two gaps can also include a 4 (Q/J 10 8 6 4 also work). Since '''Saturn''' has the highest [[Planet Cards|Planet Card]] scaling of all the non-secret hands (excluding '''Neptune''', which ''technically'' also benefits but is much harder to pull off), and the hand also has access to powerful support like {{j|The Order}}, this Joker can pair well with it in a pinch.
+* {{j|Spare Trousers}}: This scaling Additive Mult Joker complements Walkie Talkie's power incredibly, gaining {{Mult|+2}} whenever a Two Pair, Full House, or Flush House is played - all of which would likely be frequently played anyway. If acquired early, it can build up mid-to-high double digits' worth of Mult, and still be kept even when playing stronger hands like Four/Five of a Kind, as its final result still applies to all played hands.
+* {{j|The Duo}}, {{j|The Trio}}, and {{j|The Family}}: As hands containing multiple 10s and 4s are the most optimal to play with this Joker, these are the best Multiplicative Mult cards to pair with it. Of notable importance, Four/Five of a Kind and Flush Five will trigger any (and all) of them.
+* Walkie Talkie is one of only two Jokers to provide both Chips and Mult buff to scored cards, the other being {{j|Scholar}}.
+* The affected cards, and score values, are a reference to the phrase "[[Wikipedia:Ten-code|10-4]]", commonly used by US law enforcement to acknowledge that they have understood a message received over their walkie-talkies. It became more common knowledge among the public around the mid-to-late-1950s, and is now sometimes used in informal conversation in Anglophone countries to show acknowledgement of a statement.
+
+Anti-synergies:
+
+
+Joker: Misprint
+Synergies:
+*During the playtest build, this Joker could give ''negative'' {{Mult|+}}, resulting in players subtracting from their previously scored score. Understandably, it was later changed to only add values {{hl|red|+0}} and higher, due to the inherent frustration this could cause.
+*This Joker is a reference to playing cards (or any other printed object) that have been printed incorrectly or misaligned during manufacture, resulting in the art being off-centered. The assorted blocks between the two Joker labels represent colored test bars used to perform calibration or quality assurance on printed media.
+*Misprint's glitchy description reveals the next card to be drawn -- at one point in the cycle, "'''Mult'''" changes to "'''{{hl|red|#@[number][letter]}}'''". The number corresponds to the rank of the card to be drawn (11-14 = Jack, Queen, King, Ace), and the letter corresponds to the suit ('''C'''lubs, '''D'''iamonds, '''H'''earts, '''S'''pades). This can be checked at any time in the Collection, once Misprint has been discovered for the first time.
+
+Anti-synergies:
+
+
+Joker: Banner
+Synergies:
+*Works really well with {{J|Delayed Gratification}}.
+*Any Jokers that provides additional Discards, such as {{j|Drunkard}} or {{j|Merry Andy}} will buff Banner's effect significantly. 
+*At release, this Joker was classified as an Uncommon Joker and provided only +30 Chips per unused Discard. It was later changed to be Common rarity and provide +40 chips per unused discard.
+*Effect
+**{{chips|+40}} per remaining discard -> {{chips|+30}} chips per remaining discard
+*Effect
+**{{chips|+30}} per remaining discard -> {{chips|+40}} chips per remaining discard
+*Rarity
+**{{hl|green|Uncommon}} -> {{hl|blue|Common}}
+
+Anti-synergies:
+
+
+Joker: Hallucination
+Synergies:
+*{{j|Oops! All 6s}} will guarantee a Tarot card when used with Hallucination.
+*{{j|Fortune Teller}} scales with the amount of Tarot Cards used.
+*{{j|Red Card}} also has synergy with Booster Packs.
+*This is the only Joker to activate when opening a pack.
+*The art on this card is skewed and imperfect, like how many people report hallucinations to be.
+
+Anti-synergies:
+
+
+Joker: Turtle Bean
+Synergies:
+*{{J|Juggler}}: +1 hand size.
+*{{J|Troubadour}}: +2 hand size, at the cost of -1 hand per round.
+*{{J|Throwback}}: Since Throwback benefits from skipping blinds, this extends the life of Turtle Bean.
+*The [[Wikipedia:Black turtle bean|black turtle bean]] is the only type of turtle bean. It is used in Latin American and Indian cuisine, to name a few.
+*The turtle bean is often just referred to a black bean in some areas.
+*The text "Eaten!" will flash under Turtle Bean when it disappears.
+*This Joker is part of the group of "Consumable" Jokers that decrease with usage. The other Jokers in this group are {{j|Ice Cream}}, {{j|Popcorn}}, {{j|Seltzer}} and {{j|Ramen}}.
+
+Anti-synergies:
+
+
+Joker: Erosion
+Synergies:
+
+
+Anti-synergies:
+* [https://en.wikipedia.org/wiki/Erosion Erosion] is the environmental process of the removal (and subsequent deposition) of material due to natural forces, typically weather. The removal of cards from a deck could thus be considered a kind of erosion of the deck.
+
+Joker: Seltzer
+Synergies:
+*Seltzer is another name for [[Wikipedia:Carbonated water|carbonated water]], also known as fizzy water, club soda or sparkling water. 'Hard' seltzer is  when alcohol and flavourings are added.
+*The pop-up before disappearing will say "Drank!".
+*In the game code, Seltzer is referred to as "Selzer", which seems to be a spelling error.
+
+Anti-synergies:
+
+
+Joker: Superposition
+Synergies:
+*{{j|Shortcut}}: Normally, there are only two possible straights that contain an ace: A/2/3/4/5, and 10/J/Q/K/A. This makes it relatively difficult to trigger Superposition. Shortcut, however, allows straights to skip single cards, vastly increasing the number of ways this joker can be triggered.
+*{{j|Four Fingers}}: Similarly, though to a lesser extent, Four Fingers makes it easier to trigger Superposition by reducing the requirements for a straight to just 4 consecutive cards instead of 5. 
+**Mathematically, assuming a standard 52-card deck: the number of 5-card hands that trigger Superposition increases by a factor of 12 with the addition of Four Fingers, a factor of 16 with the addition of Shortcut, and a factor of 84 with both. Meanwhile, the chance of getting any straight at all increases by a factor of 12.2 with the addition of Four Fingers, a factor of 12.8 with the addition of Shortcut, and a factor of 76.3 with both.
+**However, take care that if you use Four Fingers to create a straight that doesn't score the Ace and try to include the Ace to trigger Superposition, for example: 5/6/7/8/A, the straight will not count and no Tarot card will be created.
+*{{j|Scholar}} and {{j|Walkie Talkie}}: Will give additional chips and Mult, as Straights triggering the Superposition effect will always contain an Ace, plus a 10 or 4.
+*In quantum mechanics, [[Wikipedia:Quantum superposition|superposition]] is the ability of a quantum system to be in multiple states at the same time until it is measured. The sprite of this Joker resembles an electron, which can only have +1/2 or -1/2 spin, similar to how Aces can only form high or low straights.
+*Effect
+**Superposition can no longer create {{hl|cyan|Planet}} cards.
+
+Anti-synergies:
+
+
+Joker: Half Joker
+Synergies:
+* {{j|Blue Joker}}: Giving {{Chips|+2}} to all hands played for each card remaining in your Deck, this one is ideal in the early-to-mid-game for empowering the hands this Joker already enables, as their low card count and lessened dependency on discards means its power is not dampened as much as it is by the 5-card hands.
+* {{j|Green Joker}} and {{j|Supernova}}: These Additive Mult Jokers will give even more score for playing repeated hands, which is something this Joker already encourages. Their downsides (-Mult on discard and single-hand focus, respectively) matter very little, as discards are less crucial, and only a small number of hands benefit in the first place.
+* {{j|Juggler}}, {{j|Troubadour}}, and {{j|Turtle Bean}}: All three of these provide passive bonuses to hand size, allowing for easier assembly of Three of a Kinds, and most importantly, more opportunity to trigger 'held in hand' abilities, which scale particularly well with this Joker.
+* {{j|Raised Fist}}, {{j|Shoot the Moon}}, and {{j|Baron}}: These Jokers provide Mult bonuses based on the cards held in your hand (singular variable {{Mult|+}}, multiple flat {{Mult|+}}, and multiple flat {{Mult|X}}, respectively), which meshes very well with the need to play fewer cards.
+* {{j|Reserved Parking}}: The one true economy Joker this one synergizes with. By repeatedly scoring numbered cards and Aces in small hands, while keeping face cards in hand, a large amount of money can potentially be earned.
+* {{j|Sly Joker}} and {{j|Wily Joker}}: These both provide a flat number of Chips for hands containing a Pair or a Three of a Kind, respectively. Since Three of a Kind also contains a Pair, it can benefit from both of these Jokers simultaneously to reap a near-universal {{Chips|+150}}.
+* {{j|Card Sharp}}: A flat Multiplicative Mult Joker that gives {{Mult|X3}} if the played poker hand has been played previously in the round. Since all of the hands this Joker enables are easy to score, this suave fellow is nearly guaranteed to give his impressive bonus on all subsequently played hands.
+* {{j|Certificate}}: A unique utility Joker that gives a technical hand size bonus by adding a playing card with a random [[Card Modifiers#Seals|Seal]] to the hand at the start of a round (it is added to the full deck at the end). '''Red Seals''' (retriggering the card's scoring and abilities) are nice to eventually Enhance into Steel Cards, but of even greater importance are '''Blue Seals''', which create the [[Planet Cards|Planet Card]] of the final played poker hand if held in hand. This allows for even greater scaling of the hands this card enables. It also works particularly well with the aforementioned {{j|Blue Joker}}.
+* {{j|Mime}}: Allowing all 'held in hand' abilities to trigger an additional time, it gives a huge boost to the power ceiling of this Joker by allowing additional scoring from Steel Cards and 'held in hand' Mult Jokers, money generation from {{j|Reserved Parking}} and Gold Cards, and Planet Card generation from Blue Seals.
+* {{j|Ramen}}: Similarly to {{j|Green Joker}}, this card is essentially a free {{Mult|X2}} boost for a Half Joker build, as discards are less necessary in the first place.
+* {{j|Space Joker}} and {{j|Burnt Joker}}: These both allow for easy poker hand level scaling, as they can easily be assembled and thus repeatedly played or discarded, respectively.
+* {{j|Steel Joker}}: Since this Joker already benefits greatly from a large number of Steel Cards due to the lesser number of played cards, the bonus it gives just by adding Steel Cards to the build makes it a natural choice.
+* {{j|Stuntman}}: One of the strongest Chip Jokers in the game, providing an astounding {{Chips|+250}} to all played hands, at the cost of a passive -2 hand size penalty. While its drawback detracts from one of this Joker's primary strengths - holding onto more cards to activate 'held in hand' abilities - oftentimes the sheer power it provides will be more than enough to compensate.
+* {{j|The Duo}} and/or {{j|The Trio}}: These are the strongest Multiplicative Mult Jokers to pair with this one, as only High Card is excluded from their effects (which is only suboptimal in the Endless Antes). Much like the hand-specific Chip Jokers, Three of a Kinds can benefit from both simultaneously to pump out a staggering {{Mult|X6}}.
+* {{j|Splash}}: This Joker allows all played cards to count in scoring. It lets High Cards and Pairs benefit from makeshift discards in the form of otherwise non-scoring cards that could have a nice Card Modifier to help with scoring, or another trait to mesh with unique Joker synergy. However, Three of a Kind is completely incapable of benefitting if Half Joker is being emphasized, and in the event that it is the focused hand, Splash would do nothing (a dilemma ''Pokémon'' players would be all too familiar with).
+* {{j|Marble Joker}}: Adding a Stone Card to the Deck at the start of a round can sound enticing, and is especially so if the hands being scaled are High Card or Pair due to allowing more cards to be scored than usual, but the shot of Chips they provide usually is not enough to outweigh the large amassment of Jokers that provide score based on rank or suit - Stones lack both of these. On top of that, more cards in Deck means less of a chance of finding crucial Steel Cards or Blue Seals. With a large number of Stones, {{j|Stone Joker}} can form a very potent Chip engine with it, but one should carefully consider all their options before picking this up.
+
+Anti-synergies:
+* Jokers oriented towards larger hands will contribute nothing to a Half Joker build. Some of the numerous examples include not being able to get its benefit while also scaling {{j|Square Joker}}, and being unable to capitalize on {{j|The Family}}, which is one of the strongest flat Multiplicative Mult Jokers in the game, which would stack with the aforementioned ones, and would otherwise be easy to pivot into from a Three of a Kind build.
+* {{j|Blackboard}}: While its Multiplicative Mult bonus is impressive, it is extremely difficult to trigger by only scoring 3 cards at a time without extreme suit fixing.
+* {{j|Merry Andy}}: The +3 discards it provides are nice for most other builds, but for Half Joker builds, they are largely irrelevant for the reasons stated multiple times before. The -1 hand size penalty it provides can make it just hard enough to find Pairs and Three of a Kinds to be a severe detriment, as well as making Steel Cards and Blue Seals harder to find.
+* The '''Grabber''' Voucher, and its upgraded counterpart '''Nacho Tong''', allows for the three hands Half Joker enables to be played more and more often, making a potential '''Telescope''' more valuable, and further increasing the power of cards like {{j|Green Joker}} and {{j|Supernova}}.
+* The '''Paint Brush''' Voucher, and its upgraded counterpart '''Palette''', provide passive hand size bonuses without necessitating the consumption of a Joker slot, allowing for easier capitalization on 'held in hand' effects.
+* For the same reason that the {{D|Nebula}} is a good choice, the '''Telescope''' Voucher is a wonderful pickup in a build featuring this Joker.
+* '''The Psychic''': Hands with no more than 5 played cards will not score at all. Unless the player has scaled their build well enough, this is a definite run-ender for a Half Joker build.
+* '''The Eye''': Hands that have been played previously this Blind will not score at all. Half Joker only empowers 3 of the 12 hands in the game, so once these options are exhausted, it will not assist in scoring whatsoever. This can potentially cause a guaranteed run loss, but is less detrimental when encountered earlier.
+* '''The Ox''': Playing the poker hand that was the most played at the start of the same Ante will set the player's money to {{hl|yellow|$0}}. This Joker struggles with it especially, as it encourages focusing on a small number of hands. Since the Jokers and Card Modifiers Half Joker bounces off of best are hard to come by consistently, this Boss Blind can potentially cause irreversible damage to the run by making them virtually inaccessible.
+* '''The Wall''' and '''Violet Vessel''': With their doubled and tripled Boss Blind size, respectively, they prove an extreme challenge to a Half Joker build without extreme amounts of scaling, as all three hands it enables have very low base Chips and Mult.
+*Since Half Joker's model is abnormal, the effect of the Amber Acorn Boss [[Blinds|Blind]] is useless on it. It shares this distinction with {{j|Wee Joker}},  {{J|Square Joker|1}}, and {{J|Photograph}}.
+
+Joker: Lusty Joker
+Synergies:
+* As Lusty Joker's effect triggers when a Heart card is ''scored'', retrigger Jokers, that allow cards to be scored multiple times, are very good to combo with Lusty.
+* Flush Jokers, like {{j|Crafty Joker}} and {{j|Droll Joker}}, work well with Lusty Joker, as you want to be playing flushes to maximize Lusty's effect anyways.
+* {{j|Bloodstone}} also triggers off of Heart cards scored, forming a natural synergy with Lusty Joker. As Bloodstone gives X Mult on a chance basis, Lusty Joker can be a natural addition to {{j|Oops! All 6s}} builds, which tend to use Lucky cards and other chance-based Joker effects, or other "X Mult from cards played" Jokers, like {{j|The Idol}} or, sometimes, {{j|Ancient Joker}}.
+* Because Lusty Joker's Mult is applied during the scoring of your played cards, Jokers that focus on creating Tarot cards are helpful to Lusty Joker's viability. They can both allow more Hearts to be created, and create certain Enhancements (particularly Glass and Steel) that work well with high hand-scoring Mult builds.
+* {{j|Smeared Joker}} effectively turns all Diamond cards into Hearts for the purpose of Lusty Joker's effect.
+*Lust is one of the traditional [[Wikipedia:Seven deadly sins|seven deadly sins]]. The four basic Jokers that provide +3 Mults for each suit are each based on these. The other Sinful Jokers are {{j|Greedy Joker}}, {{j|Wrathful Joker}} and {{j|Gluttonous Joker}}.
+*Effect
+**{{mult|+4}} -> {{mult|+3}}
+
+Anti-synergies:
+
+
+Joker: Splash
+Synergies:
+* Any Jokers that trigger their effect when certain cards are scored synergize well with Splash. This includes {{J|Scholar}}, {{J|Greedy Joker}}, {{J|The Idol}}, {{J|Seeing Double}}, and any other Joker that gives played cards a bonus when scored.
+* {{J|Flower Pot}} is especially good with Splash since you will almost always be able to play and score every suit in one hand.
+* {{J|Pareidolia}} boosts Splash's synergy with all Jokers that buff scored face cards.
+* {{J|Hiker}} is very good with Splash, as the cards played will always score and therefore always upgrade. This makes it easier to upgrade specific cards, as they can score even if the hand they would normally be played in is unavailable. It also makes it easier to add a high-chip card onto an otherwise low-chip hand.
+* Jokers that scale Mult based on hands played, like {{J|Green Joker}}, are usually good to use with Splash, as they also help out many of the High Card and Pair builds that Splash is used most often in. In this case, Splash is best used as a Chip provider, scoring Bonus and Foil cards that wouldn't otherwise be scored. (Stone cards perform like this already, but you could use Splash as a transitional Joker while you build up the amount of Stones in your deck.)
+* {{J|Ride the Bus}} is slightly anti-synergistic, though, as it can be reset by a face card that would have otherwise had no effect.
+* Splash can help out {{J|Burglar}}, as the throwaway hands that one will usually need to play with it will score more Chips.
+*This joker was available since the first demo of the game and has never been changed.
+*In [[Wikipedia:Collectible card game|collectible card games]] such as [[Wikipedia:Magic: The Gathering|''Magic: The Gathering'']], a "Splash" is a term for the practice of using only a very small amount of cards of a color in a deck which is filled with cards of other colors. In a similar vein, this Joker allows the player to "Splash" a small amount of cards that wouldn't normally score into their deck.
+
+Anti-synergies:
+
+
+Joker: Mail-In Rebate
+Synergies:
+*This Joker is addressed to Jerry Seinfeld's apartment from the show [https://en.wikipedia.org/wiki/Seinfeld Seinfeld].
+*If the deck has no card with any rank (i.e full Stone Cards), Mail-in Rebate will default to +$5 per discarded Ace.
+*Effect
+**Gives {{hl|yellow|$3}} -> gives {{hl|yellow|$5}}
+
+Anti-synergies:
+
+
+Joker: Photograph
+Synergies:
+* {{J|Hanging Chad}}: Forming an extremely reliable and surprisingly strong early-game combo, these two Common Jokers essentially provide {{Mult|X8}} and {{Chips|+20}} on their own if the first scored card in a hand is a face card. A Flush will score a minimum of '''2,528''' (Fa 5 4 3 2), a Full House '''2,752''' (Fa Fa 2 2 2), and a Straight '''3,008''' (J 10 9 8 7). This means, with a little luck, Ante 2 on ''any'' difficulty can be cleared in a single hand per Blind with just this combo, while saving cash to make stronger purchases. The only exception is if '''The Wall''' Boss Blind is encountered at Ante 2; this will require 2 hands or something extra.
+* {{J|Sock and Buskin}}: By retriggering all played face cards, Photograph's effect is doubled. This combo is most effective when you have stacked up a lot of Glass and/or Polychrome face cards, as they can shoot the Mult value way higher even after Photograph is done triggering.
+* {{J|Dusk}} and {{J|Seltzer}}: These two are generally more effective than Sock and Buskin in bolstering this Joker, but instead of unconditionally applying to face cards, they are either conditional (Dusk) or temporary (Seltzer). They allow for 'when scored' effects of Aces and numbered cards (ex. {{J|Scholar}}, Mult Cards, and Holographic cards) to trigger twice before Photograph quadruples the Mult at the time the face card gets scored, leading to an overall higher score.
+* {{J|The Idol}}: Providing {{Mult|X2}} when a card of a specific rank and suit is scored, it can double the rate at which this Joker skyrockets the score. At base, it only has a 3/13 (~23.1%) chance of choosing any face card at the end of a round, but deck manipulation through the likes of [[Tarot Cards]] such as '''Strength''', '''The Lovers''', and especially '''Death''' (which can unify suits while also copying other Card Modifiers stronger than the Wild Enhancement) can make it significantly easier to activate.
+* {{J|Triboulet}}: An exceedingly rare Legendary Joker that gives {{Mult|X2}} when a King or Queen is scored. Pairing this with one of the aforementioned retrigger Jokers makes for an absurd amount of Mult when scoring a King or Queen.
+* {{J|Pareidolia}}: It can be both good and bad when used with Photograph. It will cause the effect to always trigger, regardless of card value, but also always on the first card, preventing some Enhanced cards from reaching their full potential.
+
+Anti-synergies:
+* {{J|Ride the Bus}}: As scoring a face card resets it back to {{Mult|+0}}, this Joker is unable to use its own effect without decimating many rounds' worth of Additive Mult scaling.
+* This Joker is square-shaped, rather than the typical rectangle. It evokes the style of the [[Wikipedia:Instant camera|Polaroid camera]] film.
+* This Joker and {{J|Cavendish}} (which can only be obtained after {{J|Gros Michel}} destroys itself in the same run) are the only Common Jokers that can provide Multiplicative Mult.
+* This Joker is easily distinguishable when played against the [[Blinds and Antes|Amber Acorn Finisher Blind]], as it retains its unique shape even when flipped face-down. It shares this trait with {{J|Wee Joker}}, {{J|Square Joker}}, and {{J|Half Joker}}.
+* A popular meme within the ''Balatro'' community has derived from the combination of this card and {{J|Hanging Chad}}, due to its ubiquity in higher Stakes since the latter's buff. It is frequently dubbed "'''The PhotoChad'''", or "'''The Chad Kroeger'''", the second of which is a reference to [https://en.wikipedia.org/wiki/Photograph_(Nickelback_song) a 2005 song by Canadian rock band ''Nickelback''], itself an Internet meme, as the song shares its name with this Joker, and the first name of the lead singer and guitarist is suggestive of the other Joker's.
+
+Joker: Supernova
+Synergies:
+* {{J|Burglar}} replaces discards with hands, resulting in more available hands, thus allowing Supernova to scale faster.
+* {{J|Green Joker}} is an additive mult card that grows as more hands are played (however, Green Joker also loses mult with discards, and having multiple additive mult cards can limit your run's potential above Ante 9 or 10).
+* {{J|Card Sharp}} gives {{Mult|X3}} when the same hand is played more than once in a round.
+* {{J|Space Joker}} gives a 1/4 chance of upgrading a hand when it's played. By playing only one hand type consistently to boost Supernova, you can achieve very high levels for said hand.
+* {{J|Burnt Joker}} easily allows leveling up a poker hand without planet cards (at the effective cost of 1 discard), which is extra beneficial when a single poker hand type is being played.
+
+Anti-synergies:
+* If you only ever play one hand type, {{J|Obelisk}} will never provide anything above {{Mult|X1}}.
+* If you skip blinds to level up {{J|Throwback}}, you will have fewer opportunities to play hands in order to increase Supernova's power.
+*A [[Wikipedia:Supernova|supernova]] is a star exploding at the end of its life. This connects with the Planet theming for poker hands.
+
+Joker: The Duo
+Synergies:
+*This joker is part of a set that gives strong Mult boosts for playing specific hands, which are unlocked by winning a run without playing that hand. The others are {{J|The Trio}}, {{J|The Family}}, {{J|The Order}} and {{J|The Tribe}}.
+
+Anti-synergies:
+
+
+Joker: Droll Joker
+Synergies:
+* {{J|Crafty Joker}} and {{J|The Tribe}} always activate at the same time as this Joker.
+* {{J|Four Fingers}} and {{J|Smeared Joker}} help in making it easier to create flushes.
+* Depending on your deck and which suit you are playing off of, one of the pairs of {{J|Greedy Joker}}/{{J|Rough Gem}}, {{J|Lusty Joker}}/{{J|Bloodstone}}, {{J|Wrathful Joker}}/{{J|Arrowhead}} or {{J|Gluttonous Joker}}/{{J|Onyx Agate}} can work for diamonds, hearts, spades and clubs respectively.
+*This joker is part of a series which provide a Mult boost for a specific hand. The others are {{J|Jolly Joker}}, {{J|Zany Joker}}, {{J|Mad Joker}} and {{J|Crazy Joker}}.
+
+Anti-synergies:
+
+
+Joker: Certificate
+Synergies:
+* Jokers that add effects to cards, like {{J|Fibonacci}}, {{J|Arrowhead}}, and {{J|Photograph}}, or that scale off card triggers, like {{J|Lucky Cat}} and {{J|Wee Joker}}, greatly appreciate the Red Seals Certificate makes. This is another example of how it's best to build around what Certificate provides; a Red Seal on a 3 is useless to Wee and Photograph, but very good for Fibonacci. Tarots can be used to manipulate these Red Sealed cards to work with these kinds of Jokers, so Tarot-generators can be helpful, though Certificate may make Purple Seals to fill that role.
+* Blue Seals work well with other held-in-hand effects, so Jokers like {{J|Mime}} and {{J|Raised Fist}} can help bolster those effects, and help the High Card that held-in-hand builds rely on so much to get some planet scaling. {{J|Shoot the Moon}} and {{J|Baron}} are less immediately useful, though, since their rank is only a 1/13 chance to be selected for the Sealed card. These effects also all appreciate the retriggers of Red Seal.
+* Blue Seals are also very strong with planet-focused builds, since they can scale your desired poker hand by upwards of three levels per round. Other sources of poker hand levels, like {{J|Burnt Joker}} and {{J|Space Joker}} (though less for Space, you're likely to win in one hand early with a high-leveled hand), can help to increase that scaling further, and {{J|Constellation}} will gain more scaling. Since these builds often get all their chips from their poker hand, it also allows for more Economy, +Mult, and XMult Jokers.
+* Gold Seals are less useful for direct Joker synergies, but they can contribute greatly to your economy, making them synergize well with economy-based scalers like {{J|Flash Card}} and {{J|Bull}}.
+* Purple Seals can produce a ton of Tarot cards in large enough quantities, providing a source of manipulating the Sealed cards generated and a strong economy boost from certain Tarots. At worst, the Tarots generated can be sold for $1, making them budget Gold Seals. Ways of scaling off Tarot cards, like {{J|Fortune Teller}} and {{J|Vampire}}, appreciate the Tarots Purple Seals generate, and suit/rank based Jokers like {{J|Onyx Agate}} and {{J|Scholar}} enjoy the additional copies of their suit/rank that Tarots can create. {{J|Hit the Road}} can work incredibly well if a Purple Seal is generated on a Jack, since the Tarot created may help in making even more Purple Seal Jacks to scale Hit The Road.
+* Certificate synergies well with {{J|Hologram}} as the added cards add to Hologram's scaling.
+* Because Certificate's effect triggers on blind selection, {{J|Blueprint}} and {{J|Brainstorm}} can copy it, then moved to copy another Joker for the actual hands.
+* {{J|DNA}} loves copying a high-value Seal created by Certificate.
+* Because Certificate creates so much value in the playing cards themselves, {{J|Joker Stencil}} is easier to use since fewer Jokers are required for scoring or other effects.
+*The Joker art is a play on what the certificates would look like in popular media.
+
+Anti-synergies:
+
+
+Joker: Faceless Joker
+Synergies:
+*{{j|Pareidolia}} makes it so that all cards are considered Face Cards, effectively guaranteeing $5 per every 3 cards discarded.
+*{{j|Drunkard}} gives +1 Discard, more chances to find and discard Face Cards.
+*{{j|Merry Andy}} gives +3 Discards, more chances to find and discard Face Cards.
+*{{J|Blueprint}} and {{J|Brainstorm}} can copy Faceless Joker, effectively double/triple amount of money gained with no downside as they can be moved around to buff scoring Jokers afterward.
+*The art is identical to the basic {{J|Joker}} in all ways, except for the lack of facial features.
+
+Anti-synergies:
+
+
+Joker: Obelisk
+Synergies:
+* Since each poker hand can only be played a limited number of times until it becomes tied as the most-played hand, Obelisk can’t be scaled forever and will always eventually reset, unless one utilizes the poker hand debuffs from The Psychic, The Eye, or The Mouth.
+* Playing your most-played poker hand while debuffed by The Psychic, The Eye, or The Mouth doesn’t reset Obelisk, but it still increases the number of times the hand has been played. This actually allows Obelisk to be scaled indefinitely.
+* During the second demo, Obelisk scaled at {{Mult|x0.5}} per played hand, making it as strong as {{J|Madness}}. It was later nerfed twice resulting in only {{Mult|x0.2}} per played hand, the second weakest among scaling Multiplicative Joker per scaling trigger (Only after {{J|Constellation}}, at {{Mult|x0.1}} per Planet card used).
+*Effect
+**Obelisk's scaling Mult {{hl|red|x0.25}} per played hand -> {{hl|red|x0.2}} per played hand
+*Rarity
+**{{hl|green|Uncommon}} -> {{hl|red|Rare}}
+*Effect
+**Obelisk's scaling Mult {{hl|red|x0.5}} per played hand -> {{hl|red|x0.25}} per played hand
+
+Anti-synergies:
+
+
+Joker: Rough Gem
+Synergies:
+*Rough Gem is one of four stone/mineral themed jokers unlocked by having 30 cards of that suit in your deck.  The others are {{J|Arrowhead}} (spades), {{J|Bloodstone}} (hearts), and {{J|Onyx Agate}} (clubs).
+*While {{J|Smeared Joker}} allows heart cards to count as Diamonds for the purpose of scoring, those cards do not count as diamonds for the purpose of unlocking the joker.
+
+Anti-synergies:
+
+
+Joker: Hiker
+Synergies:
+*This is the only way to directly affect the chips a card provides in a way that cannot be overwritten, short of copying over the card with another or destroying it.
+*Effect
+**{{Chips|+4}} to every scoring card -> {{Chips|+5}} to every scoring card
+*Effect
+**{{Chips|+1}} to every scoring card -> {{Chips|+4}} to every scoring card
+
+Anti-synergies:
+
+
